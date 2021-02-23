@@ -1,0 +1,2984 @@
+<items>
+<item id="-1_1" class="Publication">
+<attribute name="firstAuthor" value="Shipley K"/>
+<attribute name="issue" value="7"/>
+<attribute name="journal" value="EMBO J"/>
+<attribute name="pages" value="1422-32"/>
+<attribute name="pubMedId" value="15029249"/>
+<attribute name="title" value="Structure of a kinesin microtubule depolymerization machine."/>
+<attribute name="volume" value="23"/>
+<attribute name="year" value="2004"/>
+<collection name="authors"><reference ref_id="-1_2"/><reference ref_id="-1_3"/><reference ref_id="-1_4"/><reference ref_id="-1_5"/><reference ref_id="-1_6"/><reference ref_id="-1_7"/><reference ref_id="-1_8"/><reference ref_id="-1_9"/></collection>
+</item>
+<item id="-1_10" class="Publication">
+<attribute name="firstAuthor" value="Shi W"/>
+<attribute name="issue" value="18"/>
+<attribute name="journal" value="J Biol Chem"/>
+<attribute name="pages" value="18103-6"/>
+<attribute name="pubMedId" value="14982926"/>
+<attribute name="title" value="Plasmodium falciparum purine nucleoside phosphorylase: crystal structures, immucillin inhibitors, and dual catalytic function."/>
+<attribute name="volume" value="279"/>
+<attribute name="year" value="2004"/>
+<collection name="authors"><reference ref_id="-1_11"/><reference ref_id="-1_12"/><reference ref_id="-1_13"/><reference ref_id="-1_14"/><reference ref_id="-1_15"/><reference ref_id="-1_16"/><reference ref_id="-1_17"/><reference ref_id="-1_18"/><reference ref_id="-1_19"/><reference ref_id="-1_20"/></collection>
+</item>
+<item id="-1_21" class="Publication">
+<attribute name="firstAuthor" value="Boucher IW"/>
+<attribute name="journal" value="BMC Struct Biol"/>
+<attribute name="pages" value="20"/>
+<attribute name="pubMedId" value="17020617"/>
+<attribute name="title" value="The crystal structure of superoxide dismutase from Plasmodium falciparum."/>
+<attribute name="volume" value="6"/>
+<attribute name="year" value="2006"/>
+<collection name="authors"><reference ref_id="-1_22"/><reference ref_id="-1_23"/><reference ref_id="-1_24"/><reference ref_id="-1_25"/><reference ref_id="-1_26"/><reference ref_id="-1_27"/><reference ref_id="-1_28"/></collection>
+</item>
+<item id="-1_29" class="Publication">
+<attribute name="firstAuthor" value="Francis SE"/>
+<attribute name="journal" value="Annu Rev Microbiol"/>
+<attribute name="pages" value="97-123"/>
+<attribute name="pubMedId" value="9343345"/>
+<attribute name="title" value="Hemoglobin metabolism in the malaria parasite Plasmodium falciparum."/>
+<attribute name="volume" value="51"/>
+<attribute name="year" value="1997"/>
+<collection name="authors"><reference ref_id="-1_30"/><reference ref_id="-1_31"/><reference ref_id="-1_32"/></collection>
+</item>
+<item id="-1_33" class="Publication">
+<attribute name="firstAuthor" value="Bowman S"/>
+<attribute name="issue" value="6744"/>
+<attribute name="journal" value="Nature"/>
+<attribute name="pages" value="532-8"/>
+<attribute name="pubMedId" value="10448855"/>
+<attribute name="title" value="The complete nucleotide sequence of chromosome 3 of Plasmodium falciparum."/>
+<attribute name="volume" value="400"/>
+<attribute name="year" value="1999"/>
+<collection name="authors"><reference ref_id="-1_34"/><reference ref_id="-1_35"/><reference ref_id="-1_36"/><reference ref_id="-1_37"/><reference ref_id="-1_38"/><reference ref_id="-1_39"/><reference ref_id="-1_40"/><reference ref_id="-1_41"/><reference ref_id="-1_42"/><reference ref_id="-1_43"/><reference ref_id="-1_44"/><reference ref_id="-1_45"/><reference ref_id="-1_46"/><reference ref_id="-1_47"/><reference ref_id="-1_48"/><reference ref_id="-1_49"/><reference ref_id="-1_50"/><reference ref_id="-1_51"/><reference ref_id="-1_52"/><reference ref_id="-1_53"/><reference ref_id="-1_54"/><reference ref_id="-1_55"/><reference ref_id="-1_56"/><reference ref_id="-1_57"/><reference ref_id="-1_58"/><reference ref_id="-1_59"/><reference ref_id="-1_60"/><reference ref_id="-1_61"/><reference ref_id="-1_62"/><reference ref_id="-1_63"/><reference ref_id="-1_64"/><reference ref_id="-1_65"/><reference ref_id="-1_66"/><reference ref_id="-1_67"/><reference ref_id="-1_68"/><reference ref_id="-1_69"/></collection>
+</item>
+<item id="-1_70" class="Publication">
+<attribute name="firstAuthor" value="McIntosh MT"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="183-95"/>
+<attribute name="pubMedId" value="11378198"/>
+<attribute name="title" value="Two classes of plant-like vacuolar-type H(+)-pyrophosphatases in malaria parasites."/>
+<attribute name="volume" value="114"/>
+<attribute name="year" value="2001"/>
+<collection name="authors"><reference ref_id="-1_71"/><reference ref_id="-1_72"/><reference ref_id="-1_73"/><reference ref_id="-1_74"/><reference ref_id="-1_75"/></collection>
+</item>
+<item id="-1_76" class="Publication">
+<attribute name="firstAuthor" value="Wesseling JG"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="143-53"/>
+<attribute name="pubMedId" value="2459617"/>
+<attribute name="title" value="Extremely diverged actin proteins in Plasmodium falciparum."/>
+<attribute name="volume" value="30"/>
+<attribute name="year" value="1988"/>
+<collection name="authors"><reference ref_id="-1_77"/><reference ref_id="-1_78"/><reference ref_id="-1_79"/></collection>
+</item>
+<item id="-1_80" class="Publication">
+<attribute name="firstAuthor" value="Elmendorf HG"/>
+<attribute name="issue" value="12"/>
+<attribute name="journal" value="EMBO J"/>
+<attribute name="pages" value="4763-73"/>
+<attribute name="pubMedId" value="8223485"/>
+<attribute name="title" value="Identification and localization of ERD2 in the malaria parasite Plasmodium falciparum: separation from sites of sphingomyelin synthesis and implications for organization of the Golgi."/>
+<attribute name="volume" value="12"/>
+<attribute name="year" value="1993"/>
+<collection name="authors"><reference ref_id="-1_81"/><reference ref_id="-1_82"/></collection>
+</item>
+<item id="-1_83" class="Publication">
+<attribute name="firstAuthor" value="Barale JC"/>
+<attribute name="issue" value="11"/>
+<attribute name="journal" value="Proc Natl Acad Sci U S A"/>
+<attribute name="pages" value="6445-50"/>
+<attribute name="pubMedId" value="10339607"/>
+<attribute name="title" value="Plasmodium falciparum subtilisin-like protease 2, a merozoite candidate for the merozoite surface protein 1-42 maturase."/>
+<attribute name="volume" value="96"/>
+<attribute name="year" value="1999"/>
+<collection name="authors"><reference ref_id="-1_84"/><reference ref_id="-1_85"/><reference ref_id="-1_86"/><reference ref_id="-1_87"/><reference ref_id="-1_88"/><reference ref_id="-1_89"/><reference ref_id="-1_90"/></collection>
+</item>
+<item id="-1_91" class="Publication">
+<attribute name="firstAuthor" value="Kumar A"/>
+<attribute name="issue" value="3"/>
+<attribute name="journal" value="Structure"/>
+<attribute name="pages" value="357-67"/>
+<attribute name="pubMedId" value="12005434"/>
+<attribute name="title" value="Crystals of peptide deformylase from Plasmodium falciparum reveal critical characteristics of the active site for drug design."/>
+<attribute name="volume" value="10"/>
+<attribute name="year" value="2002"/>
+<collection name="authors"><reference ref_id="-1_92"/><reference ref_id="-1_93"/><reference ref_id="-1_94"/><reference ref_id="-1_95"/><reference ref_id="-1_96"/><reference ref_id="-1_97"/><reference ref_id="-1_98"/><reference ref_id="-1_99"/></collection>
+</item>
+<item id="-1_100" class="Publication">
+<attribute name="firstAuthor" value="Clarke JL"/>
+<attribute name="issue" value="7"/>
+<attribute name="journal" value="Eur J Biochem"/>
+<attribute name="pages" value="2013-9"/>
+<attribute name="pubMedId" value="11277923"/>
+<attribute name="title" value="Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase. A novel bifunctional enzyme in malaria parasites."/>
+<attribute name="volume" value="268"/>
+<attribute name="year" value="2001"/>
+<collection name="authors"><reference ref_id="-1_101"/><reference ref_id="-1_102"/><reference ref_id="-1_103"/><reference ref_id="-1_104"/></collection>
+</item>
+<item id="-1_105" class="Publication">
+<attribute name="firstAuthor" value="Knapp B"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="1-12"/>
+<attribute name="pubMedId" value="2190085"/>
+<attribute name="title" value="Plasmodium falciparum aldolase: gene structure and localization."/>
+<attribute name="volume" value="40"/>
+<attribute name="year" value="1990"/>
+<collection name="authors"><reference ref_id="-1_106"/><reference ref_id="-1_107"/><reference ref_id="-1_108"/></collection>
+</item>
+<item id="-1_109" class="Publication">
+<attribute name="firstAuthor" value="Müller S"/>
+<attribute name="issue" value="11"/>
+<attribute name="journal" value="J Biol Chem"/>
+<attribute name="pages" value="8097-102"/>
+<attribute name="pubMedId" value="10713131"/>
+<attribute name="title" value="In the human malaria parasite Plasmodium falciparum, polyamines are synthesized by a bifunctional ornithine decarboxylase, S-adenosylmethionine decarboxylase."/>
+<attribute name="volume" value="275"/>
+<attribute name="year" value="2000"/>
+<collection name="authors"><reference ref_id="-1_110"/><reference ref_id="-1_111"/><reference ref_id="-1_112"/><reference ref_id="-1_113"/><reference ref_id="-1_114"/><reference ref_id="-1_115"/><reference ref_id="-1_116"/></collection>
+</item>
+<item id="-1_117" class="Publication">
+<attribute name="firstAuthor" value="Triglia T"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Infect Immun"/>
+<attribute name="pages" value="1084-92"/>
+<attribute name="pubMedId" value="11160005"/>
+<attribute name="title" value="Identification of proteins from Plasmodium falciparum that are homologous to reticulocyte binding proteins in Plasmodium vivax."/>
+<attribute name="volume" value="69"/>
+<attribute name="year" value="2001"/>
+<collection name="authors"><reference ref_id="-1_118"/><reference ref_id="-1_119"/><reference ref_id="-1_120"/><reference ref_id="-1_121"/><reference ref_id="-1_122"/><reference ref_id="-1_123"/></collection>
+</item>
+<item id="-1_124" class="Publication">
+<attribute name="firstAuthor" value="Trottein F"/>
+<attribute name="issue" value="1-2"/>
+<attribute name="journal" value="Eur J Biochem"/>
+<attribute name="pages" value="214-25"/>
+<attribute name="pubMedId" value="7851389"/>
+<attribute name="title" value="Molecular cloning and sequence of two novel P-type adenosinetriphosphatases from Plasmodium falciparum."/>
+<attribute name="volume" value="227"/>
+<attribute name="year" value="1995"/>
+<collection name="authors"><reference ref_id="-1_125"/><reference ref_id="-1_123"/></collection>
+</item>
+<item id="-1_126" class="Publication">
+<attribute name="firstAuthor" value="Su X"/>
+<attribute name="issue" value="5"/>
+<attribute name="journal" value="Cell"/>
+<attribute name="pages" value="593-603"/>
+<attribute name="pubMedId" value="9393853"/>
+<attribute name="title" value="Complex polymorphisms in an approximately 330 kDa protein are linked to chloroquine-resistant P. falciparum in Southeast Asia and Africa."/>
+<attribute name="volume" value="91"/>
+<attribute name="year" value="1997"/>
+<collection name="authors"><reference ref_id="-1_127"/><reference ref_id="-1_128"/><reference ref_id="-1_86"/><reference ref_id="-1_129"/></collection>
+</item>
+<item id="-1_130" class="Publication">
+<attribute name="firstAuthor" value="La Greca N"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="283-93"/>
+<attribute name="pubMedId" value="9364972"/>
+<attribute name="title" value="Identification of an endoplasmic reticulum-resident calcium-binding protein with multiple EF-hand motifs in asexual stages of Plasmodium falciparum."/>
+<attribute name="volume" value="89"/>
+<attribute name="year" value="1997"/>
+<collection name="authors"><reference ref_id="-1_131"/><reference ref_id="-1_132"/><reference ref_id="-1_133"/><reference ref_id="-1_134"/><reference ref_id="-1_135"/></collection>
+</item>
+<item id="-1_136" class="Publication">
+<attribute name="firstAuthor" value="Gardner MJ"/>
+<attribute name="issue" value="6906"/>
+<attribute name="journal" value="Nature"/>
+<attribute name="pages" value="498-511"/>
+<attribute name="pubMedId" value="12368864"/>
+<attribute name="title" value="Genome sequence of the human malaria parasite Plasmodium falciparum."/>
+<attribute name="volume" value="419"/>
+<attribute name="year" value="2002"/>
+<collection name="authors"><reference ref_id="-1_137"/><reference ref_id="-1_138"/><reference ref_id="-1_139"/><reference ref_id="-1_140"/><reference ref_id="-1_141"/><reference ref_id="-1_142"/><reference ref_id="-1_143"/><reference ref_id="-1_144"/><reference ref_id="-1_145"/><reference ref_id="-1_34"/><reference ref_id="-1_146"/><reference ref_id="-1_147"/><reference ref_id="-1_148"/><reference ref_id="-1_149"/><reference ref_id="-1_150"/><reference ref_id="-1_40"/><reference ref_id="-1_53"/><reference ref_id="-1_151"/><reference ref_id="-1_152"/><reference ref_id="-1_153"/><reference ref_id="-1_154"/><reference ref_id="-1_155"/><reference ref_id="-1_156"/><reference ref_id="-1_157"/><reference ref_id="-1_158"/><reference ref_id="-1_159"/><reference ref_id="-1_160"/><reference ref_id="-1_161"/><reference ref_id="-1_75"/><reference ref_id="-1_162"/><reference ref_id="-1_163"/><reference ref_id="-1_164"/><reference ref_id="-1_165"/><reference ref_id="-1_166"/><reference ref_id="-1_167"/><reference ref_id="-1_168"/><reference ref_id="-1_169"/><reference ref_id="-1_170"/><reference ref_id="-1_171"/><reference ref_id="-1_172"/><reference ref_id="-1_173"/><reference ref_id="-1_68"/><reference ref_id="-1_174"/><reference ref_id="-1_175"/><reference ref_id="-1_176"/></collection>
+</item>
+<item id="-1_177" class="Publication">
+<attribute name="firstAuthor" value="Daubenberger CA"/>
+<attribute name="issue" value="1-2"/>
+<attribute name="journal" value="Gene"/>
+<attribute name="pages" value="255-64"/>
+<attribute name="pubMedId" value="10767547"/>
+<attribute name="title" value="Identification and recombinant expression of glyceraldehyde-3-phosphate dehydrogenase of Plasmodium falciparum."/>
+<attribute name="volume" value="246"/>
+<attribute name="year" value="2000"/>
+<collection name="authors"><reference ref_id="-1_178"/><reference ref_id="-1_179"/><reference ref_id="-1_180"/><reference ref_id="-1_181"/><reference ref_id="-1_182"/><reference ref_id="-1_183"/></collection>
+</item>
+<item id="-1_184" class="Publication">
+<attribute name="firstAuthor" value="Gardner MJ"/>
+<attribute name="issue" value="6906"/>
+<attribute name="journal" value="Nature"/>
+<attribute name="pages" value="531-4"/>
+<attribute name="pubMedId" value="12368868"/>
+<attribute name="title" value="Sequence of Plasmodium falciparum chromosomes 2, 10, 11 and 14."/>
+<attribute name="volume" value="419"/>
+<attribute name="year" value="2002"/>
+<collection name="authors"><reference ref_id="-1_137"/><reference ref_id="-1_153"/><reference ref_id="-1_143"/><reference ref_id="-1_150"/><reference ref_id="-1_152"/><reference ref_id="-1_185"/><reference ref_id="-1_186"/><reference ref_id="-1_187"/><reference ref_id="-1_188"/><reference ref_id="-1_189"/><reference ref_id="-1_190"/><reference ref_id="-1_191"/><reference ref_id="-1_192"/><reference ref_id="-1_193"/><reference ref_id="-1_194"/><reference ref_id="-1_195"/><reference ref_id="-1_196"/><reference ref_id="-1_197"/><reference ref_id="-1_198"/><reference ref_id="-1_199"/><reference ref_id="-1_155"/><reference ref_id="-1_154"/><reference ref_id="-1_156"/><reference ref_id="-1_157"/><reference ref_id="-1_158"/><reference ref_id="-1_159"/><reference ref_id="-1_140"/><reference ref_id="-1_168"/><reference ref_id="-1_200"/><reference ref_id="-1_201"/><reference ref_id="-1_171"/><reference ref_id="-1_172"/><reference ref_id="-1_173"/><reference ref_id="-1_175"/></collection>
+</item>
+<item id="-1_202" class="Publication">
+<attribute name="firstAuthor" value="Hall N"/>
+<attribute name="issue" value="6906"/>
+<attribute name="journal" value="Nature"/>
+<attribute name="pages" value="527-31"/>
+<attribute name="pubMedId" value="12368867"/>
+<attribute name="title" value="Sequence of Plasmodium falciparum chromosomes 1, 3-9 and 13."/>
+<attribute name="volume" value="419"/>
+<attribute name="year" value="2002"/>
+<collection name="authors"><reference ref_id="-1_138"/><reference ref_id="-1_144"/><reference ref_id="-1_141"/><reference ref_id="-1_203"/><reference ref_id="-1_204"/><reference ref_id="-1_47"/><reference ref_id="-1_56"/><reference ref_id="-1_34"/><reference ref_id="-1_205"/><reference ref_id="-1_206"/><reference ref_id="-1_207"/><reference ref_id="-1_208"/><reference ref_id="-1_209"/><reference ref_id="-1_210"/><reference ref_id="-1_211"/><reference ref_id="-1_212"/><reference ref_id="-1_38"/><reference ref_id="-1_213"/><reference ref_id="-1_214"/><reference ref_id="-1_215"/><reference ref_id="-1_216"/><reference ref_id="-1_217"/><reference ref_id="-1_218"/><reference ref_id="-1_219"/><reference ref_id="-1_220"/><reference ref_id="-1_221"/><reference ref_id="-1_222"/><reference ref_id="-1_43"/><reference ref_id="-1_223"/><reference ref_id="-1_224"/><reference ref_id="-1_45"/><reference ref_id="-1_46"/><reference ref_id="-1_225"/><reference ref_id="-1_226"/><reference ref_id="-1_227"/><reference ref_id="-1_49"/><reference ref_id="-1_48"/><reference ref_id="-1_50"/><reference ref_id="-1_228"/><reference ref_id="-1_51"/><reference ref_id="-1_229"/><reference ref_id="-1_230"/><reference ref_id="-1_231"/><reference ref_id="-1_232"/><reference ref_id="-1_233"/><reference ref_id="-1_53"/><reference ref_id="-1_234"/><reference ref_id="-1_35"/><reference ref_id="-1_235"/><reference ref_id="-1_236"/><reference ref_id="-1_237"/><reference ref_id="-1_54"/><reference ref_id="-1_238"/><reference ref_id="-1_55"/><reference ref_id="-1_57"/><reference ref_id="-1_58"/><reference ref_id="-1_239"/><reference ref_id="-1_240"/><reference ref_id="-1_59"/><reference ref_id="-1_241"/><reference ref_id="-1_60"/><reference ref_id="-1_61"/><reference ref_id="-1_242"/><reference ref_id="-1_243"/><reference ref_id="-1_244"/><reference ref_id="-1_245"/><reference ref_id="-1_246"/><reference ref_id="-1_247"/><reference ref_id="-1_63"/><reference ref_id="-1_64"/><reference ref_id="-1_248"/><reference ref_id="-1_249"/><reference ref_id="-1_250"/><reference ref_id="-1_251"/><reference ref_id="-1_66"/><reference ref_id="-1_252"/><reference ref_id="-1_65"/><reference ref_id="-1_40"/><reference ref_id="-1_68"/><reference ref_id="-1_69"/></collection>
+</item>
+<item id="-1_253" class="Publication">
+<attribute name="firstAuthor" value="Rubio JP"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Exp Parasitol"/>
+<attribute name="pages" value="137-47"/>
+<attribute name="pubMedId" value="7914495"/>
+<attribute name="title" value="Plasmodium falciparum: the pfmdr2 protein is not overexpressed in chloroquine-resistant isolates of the malaria parasite."/>
+<attribute name="volume" value="79"/>
+<attribute name="year" value="1994"/>
+<collection name="authors"><reference ref_id="-1_254"/><reference ref_id="-1_123"/></collection>
+</item>
+<item id="-1_255" class="Publication">
+<attribute name="firstAuthor" value="Tye BK"/>
+<attribute name="journal" value="Annu Rev Biochem"/>
+<attribute name="pages" value="649-86"/>
+<attribute name="pubMedId" value="10872463"/>
+<attribute name="title" value="MCM proteins in DNA replication."/>
+<attribute name="volume" value="68"/>
+<attribute name="year" value="1999"/>
+<collection name="authors"><reference ref_id="-1_256"/></collection>
+</item>
+<item id="-1_257" class="Publication">
+<attribute name="firstAuthor" value="Tanaka N"/>
+<attribute name="issue" value="4"/>
+<attribute name="journal" value="J Mol Biol"/>
+<attribute name="pages" value="1007-17"/>
+<attribute name="pubMedId" value="15476817"/>
+<attribute name="title" value="Crystal structure of S-adenosyl-L-homocysteine hydrolase from the human malaria parasite Plasmodium falciparum."/>
+<attribute name="volume" value="343"/>
+<attribute name="year" value="2004"/>
+<collection name="authors"><reference ref_id="-1_258"/><reference ref_id="-1_259"/><reference ref_id="-1_260"/><reference ref_id="-1_261"/><reference ref_id="-1_262"/><reference ref_id="-1_263"/><reference ref_id="-1_264"/><reference ref_id="-1_265"/></collection>
+</item>
+<item id="-1_266" class="Publication">
+<attribute name="firstAuthor" value="Hicks KE"/>
+<attribute name="journal" value="Gene"/>
+<attribute name="pages" value="123-9"/>
+<attribute name="pubMedId" value="2055463"/>
+<attribute name="title" value="Glycolytic pathway of the human malaria parasite Plasmodium falciparum: primary sequence analysis of the gene encoding 3-phosphoglycerate kinase and chromosomal mapping studies."/>
+<attribute name="volume" value="100"/>
+<attribute name="year" value="1991"/>
+<collection name="authors"><reference ref_id="-1_267"/><reference ref_id="-1_268"/><reference ref_id="-1_269"/><reference ref_id="-1_270"/><reference ref_id="-1_271"/></collection>
+</item>
+<item id="-1_272" class="Publication">
+<attribute name="firstAuthor" value="Reddy GR"/>
+<attribute name="issue" value="1-2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="111-21"/>
+<attribute name="pubMedId" value="8577319"/>
+<attribute name="title" value="Cloning and characterization of a Plasmodium falciparum cyclophilin gene that is stage-specifically expressed."/>
+<attribute name="volume" value="73"/>
+<attribute name="year" value="1995"/>
+<collection name="authors"><reference ref_id="-1_273"/></collection>
+</item>
+<item id="-1_274" class="Publication">
+<attribute name="firstAuthor" value="Lasonder E"/>
+<attribute name="issue" value="6906"/>
+<attribute name="journal" value="Nature"/>
+<attribute name="pages" value="537-42"/>
+<attribute name="pubMedId" value="12368870"/>
+<attribute name="title" value="Analysis of the Plasmodium falciparum proteome by high-accuracy mass spectrometry."/>
+<attribute name="volume" value="419"/>
+<attribute name="year" value="2002"/>
+<collection name="authors"><reference ref_id="-1_275"/><reference ref_id="-1_276"/><reference ref_id="-1_277"/><reference ref_id="-1_278"/><reference ref_id="-1_144"/><reference ref_id="-1_279"/><reference ref_id="-1_280"/><reference ref_id="-1_138"/><reference ref_id="-1_281"/><reference ref_id="-1_282"/><reference ref_id="-1_283"/></collection>
+</item>
+<item id="-1_284" class="Publication">
+<attribute name="firstAuthor" value="Bernstein NK"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Nat Struct Biol"/>
+<attribute name="pages" value="32-7"/>
+<attribute name="pubMedId" value="9886289"/>
+<attribute name="title" value="Crystal structure of the novel aspartic proteinase zymogen proplasmepsin II from plasmodium falciparum."/>
+<attribute name="volume" value="6"/>
+<attribute name="year" value="1999"/>
+<collection name="authors"><reference ref_id="-1_285"/><reference ref_id="-1_286"/><reference ref_id="-1_287"/><reference ref_id="-1_288"/><reference ref_id="-1_289"/></collection>
+</item>
+<item id="-1_290" class="Publication">
+<attribute name="firstAuthor" value="Karcz SR"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="123-33"/>
+<attribute name="pubMedId" value="7935619"/>
+<attribute name="title" value="Cloning and characterization of the vacuolar ATPase B subunit from Plasmodium falciparum."/>
+<attribute name="volume" value="65"/>
+<attribute name="year" value="1994"/>
+<collection name="authors"><reference ref_id="-1_291"/><reference ref_id="-1_292"/><reference ref_id="-1_125"/><reference ref_id="-1_123"/></collection>
+</item>
+<item id="-1_293" class="Publication">
+<attribute name="firstAuthor" value="Trenholme KR"/>
+<attribute name="issue" value="8"/>
+<attribute name="journal" value="Proc Natl Acad Sci U S A"/>
+<attribute name="pages" value="4029-33"/>
+<attribute name="pubMedId" value="10737759"/>
+<attribute name="title" value="clag9: A cytoadherence gene in Plasmodium falciparum essential for binding of parasitized erythrocytes to CD36."/>
+<attribute name="volume" value="97"/>
+<attribute name="year" value="2000"/>
+<collection name="authors"><reference ref_id="-1_294"/><reference ref_id="-1_295"/><reference ref_id="-1_296"/><reference ref_id="-1_297"/><reference ref_id="-1_123"/><reference ref_id="-1_298"/></collection>
+</item>
+<item id="-1_299" class="Publication">
+<attribute name="firstAuthor" value="Kramer A"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="J Hyg Epidemiol Microbiol Immunol"/>
+<attribute name="pages" value="259-62"/>
+<attribute name="pubMedId" value="1236886"/>
+<attribute name="title" value="[First trials with the cockscomb candidiasis test as an in vitro screening model for antifungal agents]."/>
+<attribute name="volume" value="19"/>
+<attribute name="year" value="1975"/>
+<collection name="authors"><reference ref_id="-1_300"/><reference ref_id="-1_301"/><reference ref_id="-1_302"/><reference ref_id="-1_303"/></collection>
+</item>
+<item id="-1_304" class="Publication">
+<attribute name="firstAuthor" value="Peterson MG"/>
+<attribute name="issue" value="7"/>
+<attribute name="journal" value="Mol Cell Biol"/>
+<attribute name="pages" value="3151-4"/>
+<attribute name="pubMedId" value="2701947"/>
+<attribute name="title" value="Integral membrane protein located in the apical complex of Plasmodium falciparum."/>
+<attribute name="volume" value="9"/>
+<attribute name="year" value="1989"/>
+<collection name="authors"><reference ref_id="-1_305"/><reference ref_id="-1_306"/><reference ref_id="-1_307"/><reference ref_id="-1_308"/><reference ref_id="-1_309"/><reference ref_id="-1_310"/><reference ref_id="-1_311"/><reference ref_id="-1_298"/></collection>
+</item>
+<item id="-1_312" class="Publication">
+<attribute name="firstAuthor" value="Langsley G"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Exp Parasitol"/>
+<attribute name="pages" value="250-1"/>
+<attribute name="pubMedId" value="8682193"/>
+<attribute name="title" value="Plasmodium falciparum: the small GTPase rab11."/>
+<attribute name="volume" value="83"/>
+<attribute name="year" value="1996"/>
+<collection name="authors"><reference ref_id="-1_90"/><reference ref_id="-1_313"/></collection>
+</item>
+<item id="-1_314" class="Publication">
+<attribute name="firstAuthor" value="Bickle Q"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="141-50"/>
+<attribute name="pubMedId" value="1474992"/>
+<attribute name="title" value="A fourth family of the Plasmodium falciparum S-antigen."/>
+<attribute name="volume" value="56"/>
+<attribute name="year" value="1992"/>
+<collection name="authors"><reference ref_id="-1_315"/><reference ref_id="-1_316"/></collection>
+</item>
+<item id="-1_317" class="Publication">
+<attribute name="firstAuthor" value="Nogueira PA"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Res Microbiol"/>
+<attribute name="pages" value="141-7"/>
+<attribute name="pubMedId" value="11316367"/>
+<attribute name="title" value="Variant antigens of Plasmodium falciparum encoded by the var multigenic family are multifunctional macromolecules."/>
+<attribute name="volume" value="152"/>
+<attribute name="year" value="2001"/>
+<collection name="authors"><reference ref_id="-1_318"/><reference ref_id="-1_319"/><reference ref_id="-1_320"/></collection>
+</item>
+<item id="-1_321" class="Publication">
+<attribute name="firstAuthor" value="Surolia N"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Nat Med"/>
+<attribute name="pages" value="167-73"/>
+<attribute name="pubMedId" value="11175846"/>
+<attribute name="title" value="Triclosan offers protection against blood stages of malaria by inhibiting enoyl-ACP reductase of Plasmodium falciparum."/>
+<attribute name="volume" value="7"/>
+<attribute name="year" value="2001"/>
+<collection name="authors"><reference ref_id="-1_322"/><reference ref_id="-1_323"/></collection>
+</item>
+<item id="-1_324" class="Publication">
+<attribute name="firstAuthor" value="Pidugu LS"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="J Mol Biol"/>
+<attribute name="pages" value="147-55"/>
+<attribute name="pubMedId" value="15381426"/>
+<attribute name="title" value="Structural basis for the variation in triclosan affinity to enoyl reductases."/>
+<attribute name="volume" value="343"/>
+<attribute name="year" value="2004"/>
+<collection name="authors"><reference ref_id="-1_325"/><reference ref_id="-1_326"/><reference ref_id="-1_322"/><reference ref_id="-1_323"/><reference ref_id="-1_327"/></collection>
+</item>
+<item id="-1_328" class="Publication">
+<attribute name="firstAuthor" value="Bzik DJ"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="155-66"/>
+<attribute name="pubMedId" value="8515777"/>
+<attribute name="title" value="Expression of Plasmodium falciparum lactate dehydrogenase in Escherichia coli."/>
+<attribute name="volume" value="59"/>
+<attribute name="year" value="1993"/>
+<collection name="authors"><reference ref_id="-1_329"/><reference ref_id="-1_330"/><reference ref_id="-1_331"/></collection>
+</item>
+<item id="-1_332" class="Publication">
+<attribute name="firstAuthor" value="Shahabuddin M"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Biochim Biophys Acta"/>
+<attribute name="pages" value="191-4"/>
+<attribute name="pubMedId" value="8086463"/>
+<attribute name="title" value="A novel glucose-6-phosphate dehydrogenase in Plasmodium falciparum: cDNA and primary protein structure."/>
+<attribute name="volume" value="1219"/>
+<attribute name="year" value="1994"/>
+<collection name="authors"><reference ref_id="-1_333"/><reference ref_id="-1_334"/><reference ref_id="-1_335"/></collection>
+</item>
+<item id="-1_336" class="Publication">
+<attribute name="firstAuthor" value="Wu T"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="243-50"/>
+<attribute name="pubMedId" value="10551366"/>
+<attribute name="title" value="Lack of sequence diversity in the gene encoding merozoite surface protein 5 of Plasmodium falciparum."/>
+<attribute name="volume" value="103"/>
+<attribute name="year" value="1999"/>
+<collection name="authors"><reference ref_id="-1_337"/><reference ref_id="-1_338"/><reference ref_id="-1_339"/><reference ref_id="-1_132"/><reference ref_id="-1_316"/></collection>
+</item>
+<item id="-1_340" class="Publication">
+<attribute name="firstAuthor" value="Chakrabarti D"/>
+<attribute name="issue" value="24"/>
+<attribute name="journal" value="Proc Natl Acad Sci U S A"/>
+<attribute name="pages" value="12020-4"/>
+<attribute name="pubMedId" value="8265664"/>
+<attribute name="title" value="Cloning and characterization of subunit genes of ribonucleotide reductase, a cell-cycle-regulated enzyme, from Plasmodium falciparum."/>
+<attribute name="volume" value="90"/>
+<attribute name="year" value="1993"/>
+<collection name="authors"><reference ref_id="-1_313"/><reference ref_id="-1_341"/><reference ref_id="-1_342"/></collection>
+</item>
+<item id="-1_343" class="Publication">
+<attribute name="firstAuthor" value="Yang YF"/>
+<attribute name="issue" value="1-2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="61-7"/>
+<attribute name="pubMedId" value="2448622"/>
+<attribute name="title" value="The primary structure of a Plasmodium falciparum polypeptide related to heat shock proteins."/>
+<attribute name="volume" value="26"/>
+<attribute name="year" value="1987"/>
+<collection name="authors"><reference ref_id="-1_344"/><reference ref_id="-1_345"/><reference ref_id="-1_346"/><reference ref_id="-1_347"/></collection>
+</item>
+<item id="-1_348" class="Publication">
+<attribute name="firstAuthor" value="Li JL"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="287-95"/>
+<attribute name="pubMedId" value="9803420"/>
+<attribute name="title" value="A putative protein serine/threonine phosphatase from Plasmodium falciparum contains a large N-terminal extension and five unique inserts in the catalytic domain."/>
+<attribute name="volume" value="95"/>
+<attribute name="year" value="1998"/>
+<collection name="authors"><reference ref_id="-1_349"/><reference ref_id="-1_350"/></collection>
+</item>
+<item id="-1_351" class="Publication">
+<attribute name="firstAuthor" value="Schmid SR"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="311-4"/>
+<attribute name="pubMedId" value="8264733"/>
+<attribute name="title" value="Characterization of a putative ornithine aminotransferase gene of Plasmodium falciparum."/>
+<attribute name="volume" value="61"/>
+<attribute name="year" value="1993"/>
+<collection name="authors"><reference ref_id="-1_352"/><reference ref_id="-1_353"/><reference ref_id="-1_354"/><reference ref_id="-1_355"/></collection>
+</item>
+<item id="-1_356" class="Publication">
+<attribute name="firstAuthor" value="Hudson-Taylor DE"/>
+<attribute name="issue" value="3"/>
+<attribute name="journal" value="Mol Microbiol"/>
+<attribute name="pages" value="463-71"/>
+<attribute name="pubMedId" value="7783617"/>
+<attribute name="title" value="Plasmodium falciparum protein associated with the invasion junction contains a conserved oxidoreductase domain."/>
+<attribute name="volume" value="15"/>
+<attribute name="year" value="1995"/>
+<collection name="authors"><reference ref_id="-1_357"/><reference ref_id="-1_358"/><reference ref_id="-1_359"/><reference ref_id="-1_86"/><reference ref_id="-1_88"/><reference ref_id="-1_360"/><reference ref_id="-1_361"/></collection>
+</item>
+<item id="-1_362" class="Publication">
+<attribute name="firstAuthor" value="Wagner JT"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Eur J Biochem"/>
+<attribute name="pages" value="813-9"/>
+<attribute name="pubMedId" value="9874251"/>
+<attribute name="title" value="Glutamate dehydrogenase, the marker protein of Plasmodium falciparum--cloning, expression and characterization of the malarial enzyme."/>
+<attribute name="volume" value="258"/>
+<attribute name="year" value="1998"/>
+<collection name="authors"><reference ref_id="-1_363"/><reference ref_id="-1_364"/><reference ref_id="-1_365"/><reference ref_id="-1_366"/><reference ref_id="-1_367"/></collection>
+</item>
+<item id="-1_368" class="Publication">
+<attribute name="firstAuthor" value="Laing FC"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="J Clin Ultrasound"/>
+<attribute name="pages" value="27-33"/>
+<attribute name="pubMedId" value="108296"/>
+<attribute name="title" value="Atypical pseudocysts of the pancreas: an ultrasonographic evaluation."/>
+<attribute name="volume" value="7"/>
+<attribute name="year" value="1979"/>
+<collection name="authors"><reference ref_id="-1_369"/><reference ref_id="-1_370"/><reference ref_id="-1_371"/><reference ref_id="-1_372"/></collection>
+</item>
+<item id="-1_373" class="Publication">
+<attribute name="firstAuthor" value="Carucci DJ"/>
+<attribute name="issue" value="29"/>
+<attribute name="journal" value="J Biol Chem"/>
+<attribute name="pages" value="22147-56"/>
+<attribute name="pubMedId" value="10747978"/>
+<attribute name="title" value="Guanylyl cyclase activity associated with putative bifunctional integral membrane proteins in Plasmodium falciparum."/>
+<attribute name="volume" value="275"/>
+<attribute name="year" value="2000"/>
+<collection name="authors"><reference ref_id="-1_172"/><reference ref_id="-1_374"/><reference ref_id="-1_375"/><reference ref_id="-1_376"/><reference ref_id="-1_377"/><reference ref_id="-1_378"/><reference ref_id="-1_349"/><reference ref_id="-1_379"/><reference ref_id="-1_380"/><reference ref_id="-1_350"/></collection>
+</item>
+<item id="-1_381" class="Publication">
+<attribute name="firstAuthor" value="Hirtzlin J"/>
+<attribute name="issue" value="3"/>
+<attribute name="journal" value="Eur J Biochem"/>
+<attribute name="pages" value="765-72"/>
+<attribute name="pubMedId" value="7588714"/>
+<attribute name="title" value="Molecular and biochemical characterization of a Plasmodium falciparum cyclophilin containing a cleavable signal sequence."/>
+<attribute name="volume" value="232"/>
+<attribute name="year" value="1995"/>
+<collection name="authors"><reference ref_id="-1_382"/><reference ref_id="-1_365"/><reference ref_id="-1_383"/><reference ref_id="-1_384"/></collection>
+</item>
+<item id="-1_385" class="Publication">
+<attribute name="firstAuthor" value="Matilla A"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Cerebellum"/>
+<attribute name="pages" value="7-18"/>
+<attribute name="pubMedId" value="15895553"/>
+<attribute name="title" value="The Anp32 family of proteins containing leucine-rich repeats."/>
+<attribute name="volume" value="4"/>
+<attribute name="year" value="2005"/>
+<collection name="authors"><reference ref_id="-1_386"/><reference ref_id="-1_387"/></collection>
+</item>
+<item id="-1_388" class="Publication">
+<attribute name="firstAuthor" value="Van Wye J"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="107-20"/>
+<attribute name="pubMedId" value="9010846"/>
+<attribute name="title" value="Identification and localization of rab6, separation of rab6 from ERD2 and implications for an 'unstacked' Golgi, in Plasmodium falciparum."/>
+<attribute name="volume" value="83"/>
+<attribute name="year" value="1996"/>
+<collection name="authors"><reference ref_id="-1_389"/><reference ref_id="-1_390"/><reference ref_id="-1_391"/><reference ref_id="-1_392"/><reference ref_id="-1_81"/><reference ref_id="-1_82"/></collection>
+</item>
+<item id="-1_393" class="Publication">
+<attribute name="firstAuthor" value="Ridley RG"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="125-34"/>
+<attribute name="pubMedId" value="2200961"/>
+<attribute name="title" value="Characterisation and sequence of a protective rhoptry antigen from Plasmodium falciparum."/>
+<attribute name="volume" value="41"/>
+<attribute name="year" value="1990"/>
+<collection name="authors"><reference ref_id="-1_288"/><reference ref_id="-1_394"/><reference ref_id="-1_395"/><reference ref_id="-1_396"/><reference ref_id="-1_397"/><reference ref_id="-1_182"/><reference ref_id="-1_398"/><reference ref_id="-1_399"/><reference ref_id="-1_400"/></collection>
+</item>
+<item id="-1_401" class="Publication">
+<attribute name="firstAuthor" value="Kaczanowski S"/>
+<attribute name="issue" value="7"/>
+<attribute name="journal" value="Nat Biotechnol"/>
+<attribute name="pages" value="733"/>
+<attribute name="pubMedId" value="12833085"/>
+<attribute name="title" value="A TIP on malaria (genomics)."/>
+<attribute name="volume" value="21"/>
+<attribute name="year" value="2003"/>
+<collection name="authors"><reference ref_id="-1_402"/><reference ref_id="-1_403"/></collection>
+</item>
+<item id="-1_404" class="Publication">
+<attribute name="firstAuthor" value="Watanabe J"/>
+<attribute name="issue" value="1-2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="253-8"/>
+<attribute name="pubMedId" value="9274886"/>
+<attribute name="title" value="Cloning and characterization of heat shock protein DnaJ homologues from Plasmodium falciparum and comparison with ring infected erythrocyte surface antigen."/>
+<attribute name="volume" value="88"/>
+<attribute name="year" value="1997"/>
+<collection name="authors"><reference ref_id="-1_405"/></collection>
+</item>
+<item id="-1_406" class="Publication">
+<attribute name="firstAuthor" value="Lavrovsky VA"/>
+<attribute name="issue" value="4"/>
+<attribute name="journal" value="Immunology"/>
+<attribute name="pages" value="835-41"/>
+<attribute name="pubMedId" value="108209"/>
+<attribute name="title" value="Genetic determination of the immune response in mice to cells of different histological type."/>
+<attribute name="volume" value="36"/>
+<attribute name="year" value="1979"/>
+<collection name="authors"><reference ref_id="-1_407"/><reference ref_id="-1_408"/><reference ref_id="-1_409"/><reference ref_id="-1_410"/></collection>
+</item>
+<item id="-1_411" class="Publication">
+<attribute name="firstAuthor" value="Florent I"/>
+<attribute name="issue" value="1-2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="149-60"/>
+<attribute name="pubMedId" value="9879894"/>
+<attribute name="title" value="A Plasmodium falciparum aminopeptidase gene belonging to the M1 family of zinc-metallopeptidases is expressed in erythrocytic stages."/>
+<attribute name="volume" value="97"/>
+<attribute name="year" value="1998"/>
+<collection name="authors"><reference ref_id="-1_412"/><reference ref_id="-1_413"/><reference ref_id="-1_414"/><reference ref_id="-1_415"/><reference ref_id="-1_416"/><reference ref_id="-1_417"/></collection>
+</item>
+<item id="-1_418" class="Publication">
+<attribute name="firstAuthor" value="Möhrle JJ"/>
+<attribute name="journal" value="Biochem J"/>
+<attribute name="pages" value="677-87"/>
+<attribute name="pubMedId" value="9371731"/>
+<attribute name="title" value="Molecular cloning, characterization and localization of PfPK4, an eIF-2alpha kinase-related enzyme from the malarial parasite Plasmodium falciparum."/>
+<attribute name="volume" value="328 ( Pt 2)"/>
+<attribute name="year" value="1997"/>
+<collection name="authors"><reference ref_id="-1_419"/><reference ref_id="-1_420"/><reference ref_id="-1_421"/><reference ref_id="-1_383"/><reference ref_id="-1_422"/></collection>
+</item>
+<item id="-1_423" class="Publication">
+<attribute name="firstAuthor" value="Scherf A"/>
+<attribute name="issue" value="6"/>
+<attribute name="journal" value="EMBO J"/>
+<attribute name="pages" value="2293-301"/>
+<attribute name="pubMedId" value="1600948"/>
+<attribute name="title" value="Gene inactivation of Pf11-1 of Plasmodium falciparum by chromosome breakage and healing: identification of a gametocyte-specific protein with a potential role in gametogenesis."/>
+<attribute name="volume" value="11"/>
+<attribute name="year" value="1992"/>
+<collection name="authors"><reference ref_id="-1_424"/><reference ref_id="-1_425"/><reference ref_id="-1_426"/><reference ref_id="-1_427"/><reference ref_id="-1_428"/><reference ref_id="-1_88"/><reference ref_id="-1_429"/><reference ref_id="-1_430"/><reference ref_id="-1_431"/></collection>
+</item>
+<item id="-1_432" class="Publication">
+<attribute name="firstAuthor" value="Matesanz F"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="J Mol Biol"/>
+<attribute name="pages" value="59-70"/>
+<attribute name="pubMedId" value="10438606"/>
+<attribute name="title" value="The cloning and expression of Pfacs1, a Plasmodium falciparum fatty acyl coenzyme A synthetase-1 targeted to the host erythrocyte cytoplasm."/>
+<attribute name="volume" value="291"/>
+<attribute name="year" value="1999"/>
+<collection name="authors"><reference ref_id="-1_433"/><reference ref_id="-1_434"/><reference ref_id="-1_435"/></collection>
+</item>
+<item id="-1_436" class="Publication">
+<attribute name="firstAuthor" value="Pal B"/>
+<attribute name="issue" value="1-2"/>
+<attribute name="journal" value="Biochim Biophys Acta"/>
+<attribute name="pages" value="277-80"/>
+<attribute name="pubMedId" value="15158737"/>
+<attribute name="title" value="Biochemical characterization and crystallization of recombinant 3-phosphoglycerate kinase of Plasmodium falciparum."/>
+<attribute name="volume" value="1699"/>
+<attribute name="year" value="2004"/>
+<collection name="authors"><reference ref_id="-1_437"/><reference ref_id="-1_438"/><reference ref_id="-1_439"/><reference ref_id="-1_440"/></collection>
+</item>
+<item id="-1_441" class="Publication">
+<attribute name="firstAuthor" value="Goldberg DE"/>
+<attribute name="issue" value="4"/>
+<attribute name="journal" value="J Exp Med"/>
+<attribute name="pages" value="961-9"/>
+<attribute name="pubMedId" value="2007860"/>
+<attribute name="title" value="Hemoglobin degradation in the human malaria pathogen Plasmodium falciparum: a catabolic pathway initiated by a specific aspartic protease."/>
+<attribute name="volume" value="173"/>
+<attribute name="year" value="1991"/>
+<collection name="authors"><reference ref_id="-1_32"/><reference ref_id="-1_442"/><reference ref_id="-1_443"/><reference ref_id="-1_444"/><reference ref_id="-1_445"/><reference ref_id="-1_446"/></collection>
+</item>
+<item id="-1_447" class="Publication">
+<attribute name="firstAuthor" value="Eggleson KK"/>
+<attribute name="issue" value="45"/>
+<attribute name="journal" value="J Biol Chem"/>
+<attribute name="pages" value="32411-7"/>
+<attribute name="pubMedId" value="10542284"/>
+<attribute name="title" value="Identification and characterization of falcilysin, a metallopeptidase involved in hemoglobin catabolism within the malaria parasite Plasmodium falciparum."/>
+<attribute name="volume" value="274"/>
+<attribute name="year" value="1999"/>
+<collection name="authors"><reference ref_id="-1_448"/><reference ref_id="-1_449"/><reference ref_id="-1_32"/></collection>
+</item>
+<item id="-1_450" class="Publication">
+<attribute name="firstAuthor" value="Creedon KA"/>
+<attribute name="issue" value="23"/>
+<attribute name="journal" value="J Biol Chem"/>
+<attribute name="pages" value="16364-70"/>
+<attribute name="pubMedId" value="8206944"/>
+<attribute name="title" value="Plasmodium falciparum S-adenosylhomocysteine hydrolase. cDNA identification, predicted protein sequence, and expression in Escherichia coli."/>
+<attribute name="volume" value="269"/>
+<attribute name="year" value="1994"/>
+<collection name="authors"><reference ref_id="-1_451"/><reference ref_id="-1_452"/><reference ref_id="-1_129"/></collection>
+</item>
+<item id="-1_453" class="Publication">
+<attribute name="firstAuthor" value="LeBlanc SB"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="349-51"/>
+<attribute name="pubMedId" value="8232427"/>
+<attribute name="title" value="The dihydroorotate dehydrogenase gene homologue of Plasmodium falciparum."/>
+<attribute name="volume" value="60"/>
+<attribute name="year" value="1993"/>
+<collection name="authors"><reference ref_id="-1_454"/><reference ref_id="-1_455"/></collection>
+</item>
+<item id="-1_456" class="Publication">
+<attribute name="firstAuthor" value="Medzihradszky KF"/>
+<attribute name="issue" value="5"/>
+<attribute name="journal" value="Mol Cell Proteomics"/>
+<attribute name="pages" value="429-40"/>
+<attribute name="pubMedId" value="14752058"/>
+<attribute name="title" value="O-sulfonation of serine and threonine: mass spectrometric detection and characterization of a new posttranslational modification in diverse proteins throughout the eukaryotes."/>
+<attribute name="volume" value="3"/>
+<attribute name="year" value="2004"/>
+<collection name="authors"><reference ref_id="-1_457"/><reference ref_id="-1_458"/><reference ref_id="-1_459"/><reference ref_id="-1_460"/><reference ref_id="-1_461"/><reference ref_id="-1_462"/><reference ref_id="-1_463"/><reference ref_id="-1_464"/><reference ref_id="-1_465"/><reference ref_id="-1_466"/><reference ref_id="-1_467"/></collection>
+</item>
+<item id="-1_468" class="Publication">
+<attribute name="firstAuthor" value="Cooke BM"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Mol Microbiol"/>
+<attribute name="pages" value="83-90"/>
+<attribute name="pubMedId" value="9786187"/>
+<attribute name="title" value="A recombinant peptide based on PfEMP-1 blocks and reverses adhesion of malaria-infected red blood cells to CD36 under flow."/>
+<attribute name="volume" value="30"/>
+<attribute name="year" value="1998"/>
+<collection name="authors"><reference ref_id="-1_469"/><reference ref_id="-1_470"/><reference ref_id="-1_471"/><reference ref_id="-1_316"/></collection>
+</item>
+<item id="-1_472" class="Publication">
+<attribute name="firstAuthor" value="Sharma A"/>
+<attribute name="issue" value="3"/>
+<attribute name="journal" value="Nat Struct Biol"/>
+<attribute name="pages" value="197-203"/>
+<attribute name="pubMedId" value="12577051"/>
+<attribute name="title" value="Structure of a gametocyte protein essential for sexual development in Plasmodium falciparum."/>
+<attribute name="volume" value="10"/>
+<attribute name="year" value="2003"/>
+<collection name="authors"><reference ref_id="-1_473"/><reference ref_id="-1_474"/><reference ref_id="-1_475"/><reference ref_id="-1_476"/></collection>
+</item>
+<item id="-1_477" class="Publication">
+<attribute name="firstAuthor" value="Dobson S"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="29-39"/>
+<attribute name="pubMedId" value="11377737"/>
+<attribute name="title" value="Characterization of a novel serine/threonine protein phosphatase (PfPPJ) from the malaria parasite, Plasmodium falciparum."/>
+<attribute name="volume" value="115"/>
+<attribute name="year" value="2001"/>
+<collection name="authors"><reference ref_id="-1_478"/><reference ref_id="-1_479"/><reference ref_id="-1_313"/><reference ref_id="-1_480"/></collection>
+</item>
+<item id="-1_481" class="Publication">
+<attribute name="firstAuthor" value="Pachebat JA"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="83-9"/>
+<attribute name="pubMedId" value="11551634"/>
+<attribute name="title" value="The 22 kDa component of the protein complex on the surface of Plasmodium falciparum merozoites is derived from a larger precursor, merozoite surface protein 7."/>
+<attribute name="volume" value="117"/>
+<attribute name="year" value="2001"/>
+<collection name="authors"><reference ref_id="-1_482"/><reference ref_id="-1_483"/><reference ref_id="-1_484"/><reference ref_id="-1_485"/><reference ref_id="-1_486"/><reference ref_id="-1_487"/><reference ref_id="-1_488"/><reference ref_id="-1_489"/></collection>
+</item>
+<item id="-1_490" class="Publication">
+<attribute name="firstAuthor" value="Holloway SP"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="257-70"/>
+<attribute name="pubMedId" value="2090947"/>
+<attribute name="title" value="The tubulin genes of the human malaria parasite Plasmodium falciparum, their chromosomal location and sequence analysis of the alpha-tubulin II gene."/>
+<attribute name="volume" value="43"/>
+<attribute name="year" value="1990"/>
+<collection name="authors"><reference ref_id="-1_269"/><reference ref_id="-1_491"/><reference ref_id="-1_396"/><reference ref_id="-1_270"/><reference ref_id="-1_400"/><reference ref_id="-1_271"/></collection>
+</item>
+<item id="-1_492" class="Publication">
+<attribute name="firstAuthor" value="Sarma GN"/>
+<attribute name="issue" value="4"/>
+<attribute name="journal" value="J Mol Biol"/>
+<attribute name="pages" value="1021-34"/>
+<attribute name="pubMedId" value="15701514"/>
+<attribute name="title" value="Crystal structure of a novel Plasmodium falciparum 1-Cys peroxiredoxin."/>
+<attribute name="volume" value="346"/>
+<attribute name="year" value="2005"/>
+<collection name="authors"><reference ref_id="-1_493"/><reference ref_id="-1_494"/><reference ref_id="-1_495"/><reference ref_id="-1_496"/><reference ref_id="-1_497"/><reference ref_id="-1_498"/></collection>
+</item>
+<item id="-1_499" class="Publication">
+<attribute name="firstAuthor" value="Robien MA"/>
+<attribute name="issue" value="4"/>
+<attribute name="journal" value="Protein Sci"/>
+<attribute name="pages" value="1155-63"/>
+<attribute name="pubMedId" value="15010544"/>
+<attribute name="title" value="An improved crystal form of Plasmodium falciparum peptide deformylase."/>
+<attribute name="volume" value="13"/>
+<attribute name="year" value="2004"/>
+<collection name="authors"><reference ref_id="-1_500"/><reference ref_id="-1_93"/><reference ref_id="-1_92"/><reference ref_id="-1_97"/><reference ref_id="-1_96"/><reference ref_id="-1_98"/><reference ref_id="-1_99"/></collection>
+</item>
+<item id="-1_501" class="Publication">
+<attribute name="firstAuthor" value="Kappe SH"/>
+<attribute name="issue" value="3"/>
+<attribute name="journal" value="Proc Natl Acad Sci U S A"/>
+<attribute name="pages" value="1230-5"/>
+<attribute name="pubMedId" value="9448314"/>
+<attribute name="title" value="A family of chimeric erythrocyte binding proteins of malaria parasites."/>
+<attribute name="volume" value="95"/>
+<attribute name="year" value="1998"/>
+<collection name="authors"><reference ref_id="-1_502"/><reference ref_id="-1_503"/><reference ref_id="-1_504"/><reference ref_id="-1_505"/><reference ref_id="-1_506"/></collection>
+</item>
+<item id="-1_507" class="Publication">
+<attribute name="firstAuthor" value="Favaloro JM"/>
+<attribute name="issue" value="21"/>
+<attribute name="journal" value="Nucleic Acids Res"/>
+<attribute name="pages" value="8265-77"/>
+<attribute name="pubMedId" value="3537955"/>
+<attribute name="title" value="Structure of the RESA gene of Plasmodium falciparum."/>
+<attribute name="volume" value="14"/>
+<attribute name="year" value="1986"/>
+<collection name="authors"><reference ref_id="-1_508"/><reference ref_id="-1_316"/><reference ref_id="-1_509"/><reference ref_id="-1_510"/><reference ref_id="-1_511"/><reference ref_id="-1_311"/><reference ref_id="-1_298"/></collection>
+</item>
+<item id="-1_512" class="Publication">
+<attribute name="firstAuthor" value="Black CG"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="217-26"/>
+<attribute name="pubMedId" value="11378201"/>
+<attribute name="title" value="Merozoite surface protein 8 of Plasmodium falciparum contains two epidermal growth factor-like domains."/>
+<attribute name="volume" value="114"/>
+<attribute name="year" value="2001"/>
+<collection name="authors"><reference ref_id="-1_338"/><reference ref_id="-1_337"/><reference ref_id="-1_339"/><reference ref_id="-1_132"/><reference ref_id="-1_316"/></collection>
+</item>
+<item id="-1_513" class="Publication">
+<attribute name="firstAuthor" value="Kaviratne M"/>
+<attribute name="issue" value="6"/>
+<attribute name="journal" value="Eukaryot Cell"/>
+<attribute name="pages" value="926-35"/>
+<attribute name="pubMedId" value="12477793"/>
+<attribute name="title" value="Small variant STEVOR antigen is uniquely located within Maurer's clefts in Plasmodium falciparum-infected red blood cells."/>
+<attribute name="volume" value="1"/>
+<attribute name="year" value="2002"/>
+<collection name="authors"><reference ref_id="-1_514"/><reference ref_id="-1_515"/><reference ref_id="-1_516"/><reference ref_id="-1_517"/></collection>
+</item>
+<item id="-1_518" class="Publication">
+<attribute name="firstAuthor" value="Vinetz JM"/>
+<attribute name="issue" value="24"/>
+<attribute name="journal" value="Proc Natl Acad Sci U S A"/>
+<attribute name="pages" value="14061-6"/>
+<attribute name="pubMedId" value="10570198"/>
+<attribute name="title" value="The chitinase PfCHT1 from the human malaria parasite Plasmodium falciparum lacks proenzyme and chitin-binding domains and displays unique substrate preferences."/>
+<attribute name="volume" value="96"/>
+<attribute name="year" value="1999"/>
+<collection name="authors"><reference ref_id="-1_519"/><reference ref_id="-1_520"/><reference ref_id="-1_521"/><reference ref_id="-1_522"/><reference ref_id="-1_523"/><reference ref_id="-1_524"/><reference ref_id="-1_525"/></collection>
+</item>
+<item id="-1_526" class="Publication">
+<attribute name="firstAuthor" value="Hendriks EF"/>
+<attribute name="issue" value="2-3"/>
+<attribute name="journal" value="Biochim Biophys Acta"/>
+<attribute name="pages" value="213-8"/>
+<attribute name="pubMedId" value="9765599"/>
+<attribute name="title" value="Molecular cloning and characterization of the Plasmodium falciparum cytidine triphosphate synthetase gene."/>
+<attribute name="volume" value="1399"/>
+<attribute name="year" value="1998"/>
+<collection name="authors"><reference ref_id="-1_527"/><reference ref_id="-1_528"/><reference ref_id="-1_529"/></collection>
+</item>
+<item id="-1_530" class="Publication">
+<attribute name="firstAuthor" value="Hansen M"/>
+<attribute name="issue" value="7"/>
+<attribute name="journal" value="J Biol Chem"/>
+<attribute name="pages" value="4874-82"/>
+<attribute name="pubMedId" value="11729204"/>
+<attribute name="title" value="A single, bi-functional aquaglyceroporin in blood-stage Plasmodium falciparum malaria parasites."/>
+<attribute name="volume" value="277"/>
+<attribute name="year" value="2002"/>
+<collection name="authors"><reference ref_id="-1_531"/><reference ref_id="-1_532"/><reference ref_id="-1_533"/><reference ref_id="-1_534"/></collection>
+</item>
+<item id="-1_535" class="Publication">
+<attribute name="firstAuthor" value="Fischer K"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="47-57"/>
+<attribute name="pubMedId" value="9574909"/>
+<attribute name="title" value="Characterization and cloning of the gene encoding the vacuolar membrane protein EXP-2 from Plasmodium falciparum."/>
+<attribute name="volume" value="92"/>
+<attribute name="year" value="1998"/>
+<collection name="authors"><reference ref_id="-1_536"/><reference ref_id="-1_537"/><reference ref_id="-1_538"/><reference ref_id="-1_230"/><reference ref_id="-1_539"/><reference ref_id="-1_540"/><reference ref_id="-1_541"/><reference ref_id="-1_542"/><reference ref_id="-1_543"/></collection>
+</item>
+<item id="-1_544" class="Publication">
+<attribute name="firstAuthor" value="Berriman M"/>
+<attribute name="journal" value="Biochem J"/>
+<attribute name="pages" value="437-45"/>
+<attribute name="pubMedId" value="9716503"/>
+<attribute name="title" value="Detailed characterization of a cyclophilin from the human malaria parasite Plasmodium falciparum."/>
+<attribute name="volume" value="334 ( Pt 2)"/>
+<attribute name="year" value="1998"/>
+<collection name="authors"><reference ref_id="-1_141"/><reference ref_id="-1_163"/></collection>
+</item>
+<item id="-1_545" class="Publication">
+<attribute name="firstAuthor" value="Rahlfs S"/>
+<attribute name="issue" value="5"/>
+<attribute name="journal" value="Eur J Biochem"/>
+<attribute name="pages" value="1404-9"/>
+<attribute name="pubMedId" value="11231293"/>
+<attribute name="title" value="Thioredoxin peroxidases of the malarial parasite Plasmodium falciparum."/>
+<attribute name="volume" value="268"/>
+<attribute name="year" value="2001"/>
+<collection name="authors"><reference ref_id="-1_495"/><reference ref_id="-1_497"/></collection>
+</item>
+<item id="-1_546" class="Publication">
+<attribute name="firstAuthor" value="Wickert H"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="209-13"/>
+<attribute name="pubMedId" value="12850265"/>
+<attribute name="title" value="A putative Sec23 homologue of Plasmodium falciparum is located in Maurer's clefts."/>
+<attribute name="volume" value="129"/>
+<attribute name="year" value="2003"/>
+<collection name="authors"><reference ref_id="-1_547"/><reference ref_id="-1_548"/><reference ref_id="-1_549"/><reference ref_id="-1_550"/><reference ref_id="-1_542"/></collection>
+</item>
+<item id="-1_551" class="Publication">
+<attribute name="firstAuthor" value="Kyes SA"/>
+<attribute name="issue" value="16"/>
+<attribute name="journal" value="Proc Natl Acad Sci U S A"/>
+<attribute name="pages" value="9333-8"/>
+<attribute name="pubMedId" value="10430943"/>
+<attribute name="title" value="Rifins: a second family of clonally variant proteins expressed on the surface of red cells infected with Plasmodium falciparum."/>
+<attribute name="volume" value="96"/>
+<attribute name="year" value="1999"/>
+<collection name="authors"><reference ref_id="-1_27"/><reference ref_id="-1_552"/><reference ref_id="-1_553"/><reference ref_id="-1_554"/></collection>
+</item>
+<item id="-1_555" class="Publication">
+<attribute name="firstAuthor" value="Rowe JA"/>
+<attribute name="issue" value="6639"/>
+<attribute name="journal" value="Nature"/>
+<attribute name="pages" value="292-5"/>
+<attribute name="pubMedId" value="9230440"/>
+<attribute name="title" value="P. falciparum rosetting mediated by a parasite-variant erythrocyte membrane protein and complement-receptor 1."/>
+<attribute name="volume" value="388"/>
+<attribute name="year" value="1997"/>
+<collection name="authors"><reference ref_id="-1_552"/><reference ref_id="-1_556"/><reference ref_id="-1_554"/><reference ref_id="-1_361"/></collection>
+</item>
+<item id="-1_557" class="Publication">
+<attribute name="firstAuthor" value="Gardner MJ"/>
+<attribute name="issue" value="5391"/>
+<attribute name="journal" value="Science"/>
+<attribute name="pages" value="1126-32"/>
+<attribute name="pubMedId" value="9804551"/>
+<attribute name="title" value="Chromosome 2 sequence of the human malaria parasite Plasmodium falciparum."/>
+<attribute name="volume" value="282"/>
+<attribute name="year" value="1998"/>
+<collection name="authors"><reference ref_id="-1_137"/><reference ref_id="-1_558"/><reference ref_id="-1_172"/><reference ref_id="-1_168"/><reference ref_id="-1_559"/><reference ref_id="-1_360"/><reference ref_id="-1_560"/><reference ref_id="-1_561"/><reference ref_id="-1_562"/><reference ref_id="-1_196"/><reference ref_id="-1_198"/><reference ref_id="-1_563"/><reference ref_id="-1_564"/><reference ref_id="-1_565"/><reference ref_id="-1_566"/><reference ref_id="-1_567"/><reference ref_id="-1_157"/><reference ref_id="-1_568"/><reference ref_id="-1_569"/><reference ref_id="-1_570"/><reference ref_id="-1_571"/><reference ref_id="-1_140"/><reference ref_id="-1_200"/><reference ref_id="-1_175"/><reference ref_id="-1_201"/><reference ref_id="-1_171"/><reference ref_id="-1_173"/></collection>
+</item>
+<item id="-1_572" class="Publication">
+<attribute name="firstAuthor" value="Asojo OA"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="J Mol Biol"/>
+<attribute name="pages" value="173-81"/>
+<attribute name="pubMedId" value="12614616"/>
+<attribute name="title" value="Novel uncomplexed and complexed structures of plasmepsin II, an aspartic protease from Plasmodium falciparum."/>
+<attribute name="volume" value="327"/>
+<attribute name="year" value="2003"/>
+<collection name="authors"><reference ref_id="-1_573"/><reference ref_id="-1_574"/><reference ref_id="-1_575"/><reference ref_id="-1_576"/><reference ref_id="-1_577"/><reference ref_id="-1_578"/><reference ref_id="-1_579"/></collection>
+</item>
+<item id="-1_580" class="Publication">
+<attribute name="firstAuthor" value="Smythe JA"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="227-34"/>
+<attribute name="pubMedId" value="2181307"/>
+<attribute name="title" value="Structural diversity in the 45-kilodalton merozoite surface antigen of Plasmodium falciparum."/>
+<attribute name="volume" value="39"/>
+<attribute name="year" value="1990"/>
+<collection name="authors"><reference ref_id="-1_307"/><reference ref_id="-1_305"/><reference ref_id="-1_316"/><reference ref_id="-1_581"/><reference ref_id="-1_298"/><reference ref_id="-1_311"/></collection>
+</item>
+<item id="-1_582" class="Publication">
+<attribute name="firstAuthor" value="Fan Q"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Gene"/>
+<attribute name="pages" value="251-61"/>
+<attribute name="pubMedId" value="15246536"/>
+<attribute name="title" value="PfADA2, a Plasmodium falciparum homologue of the transcriptional coactivator ADA2 and its in vivo association with the histone acetyltransferase PfGCN5."/>
+<attribute name="volume" value="336"/>
+<attribute name="year" value="2004"/>
+<collection name="authors"><reference ref_id="-1_583"/><reference ref_id="-1_584"/><reference ref_id="-1_585"/></collection>
+</item>
+<item id="-1_586" class="Publication">
+<attribute name="firstAuthor" value="Kun JF"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="41-51"/>
+<attribute name="pubMedId" value="9108547"/>
+<attribute name="title" value="A putative Plasmodium falciparum exported serine/threonine protein kinase."/>
+<attribute name="volume" value="85"/>
+<attribute name="year" value="1997"/>
+<collection name="authors"><reference ref_id="-1_532"/><reference ref_id="-1_132"/><reference ref_id="-1_587"/><reference ref_id="-1_588"/><reference ref_id="-1_316"/><reference ref_id="-1_311"/></collection>
+</item>
+<item id="-1_589" class="Publication">
+<attribute name="firstAuthor" value="Knapp B"/>
+<attribute name="issue" value="11"/>
+<attribute name="journal" value="J Biol Chem"/>
+<attribute name="pages" value="7148-54"/>
+<attribute name="pubMedId" value="1707880"/>
+<attribute name="title" value="Demonstration of alternative splicing of a pre-mRNA expressed in the blood stage form of Plasmodium falciparum."/>
+<attribute name="volume" value="266"/>
+<attribute name="year" value="1991"/>
+<collection name="authors"><reference ref_id="-1_106"/><reference ref_id="-1_590"/><reference ref_id="-1_107"/><reference ref_id="-1_108"/></collection>
+</item>
+<item id="-1_591" class="Publication">
+<attribute name="firstAuthor" value="Salcedo E"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="239-52"/>
+<attribute name="pubMedId" value="11223131"/>
+<attribute name="title" value="A bifunctional dihydrofolate synthetase--folylpolyglutamate synthetase in Plasmodium falciparum identified by functional complementation in yeast and bacteria."/>
+<attribute name="volume" value="112"/>
+<attribute name="year" value="2001"/>
+<collection name="authors"><reference ref_id="-1_592"/><reference ref_id="-1_593"/><reference ref_id="-1_594"/><reference ref_id="-1_270"/><reference ref_id="-1_271"/></collection>
+</item>
+<item id="-1_595" class="Publication">
+<attribute name="firstAuthor" value="Sharma YD"/>
+<attribute name="journal" value="Indian J Med Res"/>
+<attribute name="pages" value="53-62"/>
+<attribute name="pubMedId" value="9291676"/>
+<attribute name="title" value="Knob proteins in falciparum malaria."/>
+<attribute name="volume" value="106"/>
+<attribute name="year" value="1997"/>
+<collection name="authors"><reference ref_id="-1_346"/></collection>
+</item>
+<item id="-1_596" class="Publication">
+<attribute name="firstAuthor" value="Knapp B"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="47-56"/>
+<attribute name="pubMedId" value="2693962"/>
+<attribute name="title" value="A new blood stage antigen of Plasmodium falciparum transported to the erythrocyte surface."/>
+<attribute name="volume" value="37"/>
+<attribute name="year" value="1989"/>
+<collection name="authors"><reference ref_id="-1_106"/><reference ref_id="-1_107"/><reference ref_id="-1_108"/></collection>
+</item>
+<item id="-1_597" class="Publication">
+<attribute name="firstAuthor" value="Lee CS"/>
+<attribute name="journal" value="Parasitology"/>
+<attribute name="pages" value="1-13"/>
+<attribute name="pubMedId" value="11197757"/>
+<attribute name="title" value="Characterization of three genes encoding enzymes of the folate biosynthetic pathway in Plasmodium falciparum."/>
+<attribute name="volume" value="122 Pt 1"/>
+<attribute name="year" value="2001"/>
+<collection name="authors"><reference ref_id="-1_598"/><reference ref_id="-1_592"/><reference ref_id="-1_599"/><reference ref_id="-1_600"/><reference ref_id="-1_270"/><reference ref_id="-1_271"/></collection>
+</item>
+<item id="-1_601" class="Publication">
+<attribute name="firstAuthor" value="Fidock DA"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="219-32"/>
+<attribute name="pubMedId" value="7935600"/>
+<attribute name="title" value="Cloning and characterization of a novel Plasmodium falciparum sporozoite surface antigen, STARP."/>
+<attribute name="volume" value="64"/>
+<attribute name="year" value="1994"/>
+<collection name="authors"><reference ref_id="-1_525"/><reference ref_id="-1_602"/><reference ref_id="-1_603"/><reference ref_id="-1_604"/><reference ref_id="-1_88"/><reference ref_id="-1_605"/><reference ref_id="-1_182"/><reference ref_id="-1_606"/><reference ref_id="-1_607"/><reference ref_id="-1_608"/></collection>
+</item>
+<item id="-1_609" class="Publication">
+<attribute name="firstAuthor" value="Kipreos ET"/>
+<attribute name="issue" value="6"/>
+<attribute name="journal" value="Cell"/>
+<attribute name="pages" value="829-39"/>
+<attribute name="pubMedId" value="8681378"/>
+<attribute name="title" value="cul-1 is required for cell cycle exit in C. elegans and identifies a novel gene family."/>
+<attribute name="volume" value="85"/>
+<attribute name="year" value="1996"/>
+<collection name="authors"><reference ref_id="-1_610"/><reference ref_id="-1_611"/><reference ref_id="-1_612"/><reference ref_id="-1_613"/><reference ref_id="-1_614"/></collection>
+</item>
+<item id="-1_615" class="Publication">
+<attribute name="firstAuthor" value="Hettmann C"/>
+<attribute name="issue" value="4"/>
+<attribute name="journal" value="Mol Biol Cell"/>
+<attribute name="pages" value="1385-400"/>
+<attribute name="pubMedId" value="10749937"/>
+<attribute name="title" value="A dibasic motif in the tail of a class XIV apicomplexan myosin is an essential determinant of plasma membrane localization."/>
+<attribute name="volume" value="11"/>
+<attribute name="year" value="2000"/>
+<collection name="authors"><reference ref_id="-1_616"/><reference ref_id="-1_617"/><reference ref_id="-1_618"/><reference ref_id="-1_619"/><reference ref_id="-1_620"/><reference ref_id="-1_621"/><reference ref_id="-1_622"/></collection>
+</item>
+<item id="-1_623" class="Publication">
+<attribute name="firstAuthor" value="Reed MB"/>
+<attribute name="issue" value="6772"/>
+<attribute name="journal" value="Nature"/>
+<attribute name="pages" value="906-9"/>
+<attribute name="pubMedId" value="10706290"/>
+<attribute name="title" value="Pgh1 modulates sensitivity and resistance to multiple antimalarials in Plasmodium falciparum."/>
+<attribute name="volume" value="403"/>
+<attribute name="year" value="2000"/>
+<collection name="authors"><reference ref_id="-1_624"/><reference ref_id="-1_625"/><reference ref_id="-1_120"/><reference ref_id="-1_626"/><reference ref_id="-1_123"/></collection>
+</item>
+<item id="-1_627" class="Publication">
+<attribute name="firstAuthor" value="O'Brien E"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="313-26"/>
+<attribute name="pubMedId" value="7935609"/>
+<attribute name="title" value="Cloning of the glucose 6-phosphate dehydrogenase gene from Plasmodium falciparum."/>
+<attribute name="volume" value="64"/>
+<attribute name="year" value="1994"/>
+<collection name="authors"><reference ref_id="-1_628"/><reference ref_id="-1_629"/><reference ref_id="-1_630"/><reference ref_id="-1_631"/><reference ref_id="-1_632"/><reference ref_id="-1_633"/><reference ref_id="-1_104"/><reference ref_id="-1_634"/></collection>
+</item>
+<item id="-1_635" class="Publication">
+<attribute name="firstAuthor" value="Craig A"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="129-43"/>
+<attribute name="pubMedId" value="11420100"/>
+<attribute name="title" value="Molecules on the surface of the Plasmodium falciparum infected erythrocyte and their role in malaria pathogenesis and immune evasion."/>
+<attribute name="volume" value="115"/>
+<attribute name="year" value="2001"/>
+<collection name="authors"><reference ref_id="-1_40"/><reference ref_id="-1_424"/></collection>
+</item>
+<item id="-1_636" class="Publication">
+<attribute name="firstAuthor" value="Doerig CM"/>
+<attribute name="issue" value="1-2"/>
+<attribute name="journal" value="Gene"/>
+<attribute name="pages" value="1-6"/>
+<attribute name="pubMedId" value="8921836"/>
+<attribute name="title" value="A MAP kinase homologue from the human malaria parasite, Plasmodium falciparum."/>
+<attribute name="volume" value="177"/>
+<attribute name="year" value="1996"/>
+<collection name="authors"><reference ref_id="-1_637"/><reference ref_id="-1_638"/><reference ref_id="-1_90"/><reference ref_id="-1_50"/><reference ref_id="-1_425"/><reference ref_id="-1_639"/></collection>
+</item>
+<item id="-1_640" class="Publication">
+<attribute name="firstAuthor" value="Bustamante PJ"/>
+<attribute name="issue" value="8"/>
+<attribute name="journal" value="Parasite Immunol"/>
+<attribute name="pages" value="373-80"/>
+<attribute name="pubMedId" value="10972844"/>
+<attribute name="title" value="Differential ability of specific regions of Plasmodium falciparum sexual-stage antigen, Pfs230, to induce malaria transmission-blocking immunity."/>
+<attribute name="volume" value="22"/>
+<attribute name="year" value="2000"/>
+<collection name="authors"><reference ref_id="-1_641"/><reference ref_id="-1_642"/><reference ref_id="-1_643"/><reference ref_id="-1_644"/><reference ref_id="-1_645"/><reference ref_id="-1_646"/></collection>
+</item>
+<item id="-1_647" class="Publication">
+<attribute name="firstAuthor" value="Rosenthal PJ"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="143-52"/>
+<attribute name="pubMedId" value="1565129"/>
+<attribute name="title" value="Isolation and characterization of a cysteine proteinase gene of Plasmodium falciparum."/>
+<attribute name="volume" value="51"/>
+<attribute name="year" value="1992"/>
+<collection name="authors"><reference ref_id="-1_648"/><reference ref_id="-1_649"/></collection>
+</item>
+<item id="-1_650" class="Publication">
+<attribute name="firstAuthor" value="Chitnis CE"/>
+<attribute name="issue" value="10"/>
+<attribute name="journal" value="Parasitol Today"/>
+<attribute name="pages" value="411-5"/>
+<attribute name="pubMedId" value="11006471"/>
+<attribute name="title" value="Host cell invasion by malaria parasites."/>
+<attribute name="volume" value="16"/>
+<attribute name="year" value="2000"/>
+<collection name="authors"><reference ref_id="-1_651"/><reference ref_id="-1_652"/></collection>
+</item>
+<item id="-1_653" class="Publication">
+<attribute name="firstAuthor" value="Li JL"/>
+<attribute name="issue" value="1-3"/>
+<attribute name="journal" value="Biochim Biophys Acta"/>
+<attribute name="pages" value="341-9"/>
+<attribute name="pubMedId" value="10760601"/>
+<attribute name="title" value="Sexual stage-specific expression of a third calcium-dependent protein kinase from Plasmodium falciparum."/>
+<attribute name="volume" value="1491"/>
+<attribute name="year" value="2000"/>
+<collection name="authors"><reference ref_id="-1_349"/><reference ref_id="-1_350"/><reference ref_id="-1_654"/></collection>
+</item>
+<item id="-1_655" class="Publication">
+<attribute name="firstAuthor" value="Wickramasinghe SR"/>
+<attribute name="issue" value="Pt 2"/>
+<attribute name="journal" value="Biochem J"/>
+<attribute name="pages" value="447-57"/>
+<attribute name="pubMedId" value="16225460"/>
+<attribute name="title" value="Kinetic, inhibition and structural studies on 3-oxoacyl-ACP reductase from Plasmodium falciparum, a key enzyme in fatty acid biosynthesis."/>
+<attribute name="volume" value="393"/>
+<attribute name="year" value="2006"/>
+<collection name="authors"><reference ref_id="-1_656"/><reference ref_id="-1_657"/><reference ref_id="-1_658"/><reference ref_id="-1_110"/><reference ref_id="-1_659"/><reference ref_id="-1_163"/></collection>
+</item>
+<item id="-1_660" class="Publication">
+<attribute name="firstAuthor" value="Barale JC"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="169-81"/>
+<attribute name="pubMedId" value="9247928"/>
+<attribute name="title" value="Plasmodium falciparum asparagine and aspartate rich protein 2 is an evolutionary conserved protein whose repeats identify a new family of parasite antigens."/>
+<attribute name="volume" value="87"/>
+<attribute name="year" value="1997"/>
+<collection name="authors"><reference ref_id="-1_84"/><reference ref_id="-1_661"/><reference ref_id="-1_603"/><reference ref_id="-1_430"/><reference ref_id="-1_90"/></collection>
+</item>
+<item id="-1_662" class="Publication">
+<attribute name="firstAuthor" value="Stafford WH"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Eur J Biochem"/>
+<attribute name="pages" value="104-13"/>
+<attribute name="pubMedId" value="8954160"/>
+<attribute name="title" value="Isolation, expression and characterization of the gene for an ADP-ribosylation factor from the human malaria parasite, Plasmodium falciparum."/>
+<attribute name="volume" value="242"/>
+<attribute name="year" value="1996"/>
+<collection name="authors"><reference ref_id="-1_663"/><reference ref_id="-1_664"/><reference ref_id="-1_665"/><reference ref_id="-1_489"/></collection>
+</item>
+<item id="-1_666" class="Publication">
+<attribute name="firstAuthor" value="Jez JM"/>
+<attribute name="journal" value="Biochem J"/>
+<attribute name="pages" value="625-36"/>
+<attribute name="pubMedId" value="9307009"/>
+<attribute name="title" value="Comparative anatomy of the aldo-keto reductase superfamily."/>
+<attribute name="volume" value="326 ( Pt 3)"/>
+<attribute name="year" value="1997"/>
+<collection name="authors"><reference ref_id="-1_667"/><reference ref_id="-1_668"/><reference ref_id="-1_669"/><reference ref_id="-1_670"/><reference ref_id="-1_671"/></collection>
+</item>
+<item id="-1_672" class="Publication">
+<attribute name="firstAuthor" value="Färber PM"/>
+<attribute name="issue" value="2"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="211-6"/>
+<attribute name="pubMedId" value="9247932"/>
+<attribute name="title" value="Molecular cloning and characterization of a second calcium-dependent protein kinase of Plasmodium falciparum."/>
+<attribute name="volume" value="87"/>
+<attribute name="year" value="1997"/>
+<collection name="authors"><reference ref_id="-1_365"/><reference ref_id="-1_673"/><reference ref_id="-1_383"/><reference ref_id="-1_422"/></collection>
+</item>
+<item id="-1_674" class="Publication">
+<attribute name="firstAuthor" value="Zuegge J"/>
+<attribute name="issue" value="1-2"/>
+<attribute name="journal" value="Gene"/>
+<attribute name="pages" value="19-26"/>
+<attribute name="pubMedId" value="11738814"/>
+<attribute name="title" value="Deciphering apicoplast targeting signals--feature extraction from nuclear-encoded precursors of Plasmodium falciparum apicoplast proteins."/>
+<attribute name="volume" value="280"/>
+<attribute name="year" value="2001"/>
+<collection name="authors"><reference ref_id="-1_675"/><reference ref_id="-1_676"/><reference ref_id="-1_677"/><reference ref_id="-1_167"/><reference ref_id="-1_678"/></collection>
+</item>
+<item id="-1_679" class="Publication">
+<attribute name="firstAuthor" value="Bolliger L"/>
+<attribute name="issue" value="8"/>
+<attribute name="journal" value="EMBO J"/>
+<attribute name="pages" value="1998-2006"/>
+<attribute name="pubMedId" value="8168496"/>
+<attribute name="title" value="A mitochondrial homolog of bacterial GrpE interacts with mitochondrial hsp70 and is essential for viability."/>
+<attribute name="volume" value="13"/>
+<attribute name="year" value="1994"/>
+<collection name="authors"><reference ref_id="-1_680"/><reference ref_id="-1_681"/><reference ref_id="-1_682"/><reference ref_id="-1_683"/><reference ref_id="-1_684"/><reference ref_id="-1_685"/><reference ref_id="-1_686"/><reference ref_id="-1_687"/><reference ref_id="-1_688"/></collection>
+</item>
+<item id="-1_689" class="Publication">
+<attribute name="firstAuthor" value="Gafan C"/>
+<attribute name="issue" value="1"/>
+<attribute name="journal" value="Mol Biochem Parasitol"/>
+<attribute name="pages" value="1-10"/>
+<attribute name="pubMedId" value="11704268"/>
+<attribute name="title" value="Characterization of the ornithine aminotransferase from Plasmodium falciparum."/>
+<attribute name="volume" value="118"/>
+<attribute name="year" value="2001"/>
+<collection name="authors"><reference ref_id="-1_690"/><reference ref_id="-1_691"/><reference ref_id="-1_692"/><reference ref_id="-1_693"/></collection>
+</item>
+<item id="-1_81" class="Author">
+<attribute name="name" value="Elmendorf HG"/>
+</item>
+<item id="-1_145" class="Author">
+<attribute name="name" value="Nelson KE"/>
+</item>
+<item id="-1_154" class="Author">
+<attribute name="name" value="Suh B"/>
+</item>
+<item id="-1_408" class="Author">
+<attribute name="name" value="Viksler VK"/>
+</item>
+<item id="-1_95" class="Author">
+<attribute name="name" value="Ornstein B"/>
+</item>
+<item id="-1_291" class="Author">
+<attribute name="name" value="Karcz SR"/>
+</item>
+<item id="-1_424" class="Author">
+<attribute name="name" value="Scherf A"/>
+</item>
+<item id="-1_575" class="Author">
+<attribute name="name" value="Afonina E"/>
+</item>
+<item id="-1_440" class="Author">
+<attribute name="name" value="Chattopadhyay D"/>
+</item>
+<item id="-1_289" class="Author">
+<attribute name="name" value="James MN"/>
+</item>
+<item id="-1_369" class="Author">
+<attribute name="name" value="Laing FC"/>
+</item>
+<item id="-1_480" class="Author">
+<attribute name="name" value="Barik S"/>
+</item>
+<item id="-1_568" class="Author">
+<attribute name="name" value="Salzberg S"/>
+</item>
+<item id="-1_233" class="Author">
+<attribute name="name" value="Konfortov B"/>
+</item>
+<item id="-1_405" class="Author">
+<attribute name="name" value="Watanabe J"/>
+</item>
+<item id="-1_654" class="Author">
+<attribute name="name" value="Cox LS"/>
+</item>
+<item id="-1_338" class="Author">
+<attribute name="name" value="Black CG"/>
+</item>
+<item id="-1_235" class="Author">
+<attribute name="name" value="Lennard N"/>
+</item>
+<item id="-1_532" class="Author">
+<attribute name="name" value="Kun JF"/>
+</item>
+<item id="-1_256" class="Author">
+<attribute name="name" value="Tye BK"/>
+</item>
+<item id="-1_26" class="Author">
+<attribute name="name" value="Smith DJ"/>
+</item>
+<item id="-1_210" class="Author">
+<attribute name="name" value="Burrows C"/>
+</item>
+<item id="-1_179" class="Author">
+<attribute name="name" value="Pöltl-Frank F"/>
+</item>
+<item id="-1_484" class="Author">
+<attribute name="name" value="Grainger M"/>
+</item>
+<item id="-1_94" class="Author">
+<attribute name="name" value="Srivathsan S"/>
+</item>
+<item id="-1_361" class="Author">
+<attribute name="name" value="Miller LH"/>
+</item>
+<item id="-1_2" class="Author">
+<attribute name="name" value="Shipley K"/>
+</item>
+<item id="-1_243" class="Author">
+<attribute name="name" value="Sanders M"/>
+</item>
+<item id="-1_458" class="Author">
+<attribute name="name" value="Darula Z"/>
+</item>
+<item id="-1_533" class="Author">
+<attribute name="name" value="Schultz JE"/>
+</item>
+<item id="-1_267" class="Author">
+<attribute name="name" value="Hicks KE"/>
+</item>
+<item id="-1_146" class="Author">
+<attribute name="name" value="Paulsen IT"/>
+</item>
+<item id="-1_90" class="Author">
+<attribute name="name" value="Langsley G"/>
+</item>
+<item id="-1_604" class="Author">
+<attribute name="name" value="Moelans II"/>
+</item>
+<item id="-1_211" class="Author">
+<attribute name="name" value="Cherevach I"/>
+</item>
+<item id="-1_63" class="Author">
+<attribute name="name" value="Squares R"/>
+</item>
+<item id="-1_64" class="Author">
+<attribute name="name" value="Squares S"/>
+</item>
+<item id="-1_620" class="Author">
+<attribute name="name" value="Schwarz E"/>
+</item>
+<item id="-1_276" class="Author">
+<attribute name="name" value="Ishihama Y"/>
+</item>
+<item id="-1_525" class="Author">
+<attribute name="name" value="Fidock DA"/>
+</item>
+<item id="-1_503" class="Author">
+<attribute name="name" value="Noe AR"/>
+</item>
+<item id="-1_556" class="Author">
+<attribute name="name" value="Moulds JM"/>
+</item>
+<item id="-1_598" class="Author">
+<attribute name="name" value="Lee CS"/>
+</item>
+<item id="-1_396" class="Author">
+<attribute name="name" value="Delves CJ"/>
+</item>
+<item id="-1_693" class="Author">
+<attribute name="name" value="Berger BJ"/>
+</item>
+<item id="-1_140" class="Author">
+<attribute name="name" value="White O"/>
+</item>
+<item id="-1_168" class="Author">
+<attribute name="name" value="Cummings LM"/>
+</item>
+<item id="-1_657" class="Author">
+<attribute name="name" value="Inglis KA"/>
+</item>
+<item id="-1_562" class="Author">
+<attribute name="name" value="Yu K"/>
+</item>
+<item id="-1_606" class="Author">
+<attribute name="name" value="Olafsson P"/>
+</item>
+<item id="-1_231" class="Author">
+<attribute name="name" value="Kerhornou A"/>
+</item>
+<item id="-1_4" class="Author">
+<attribute name="name" value="Turner J"/>
+</item>
+<item id="-1_54" class="Author">
+<attribute name="name" value="McLean J"/>
+</item>
+<item id="-1_152" class="Author">
+<attribute name="name" value="Nene V"/>
+</item>
+<item id="-1_684" class="Author">
+<attribute name="name" value="Jenö P"/>
+</item>
+<item id="-1_209" class="Author">
+<attribute name="name" value="Buckee CO"/>
+</item>
+<item id="-1_226" class="Author">
+<attribute name="name" value="Harper D"/>
+</item>
+<item id="-1_493" class="Author">
+<attribute name="name" value="Sarma GN"/>
+</item>
+<item id="-1_638" class="Author">
+<attribute name="name" value="Parzy D"/>
+</item>
+<item id="-1_686" class="Author">
+<attribute name="name" value="Horst M"/>
+</item>
+<item id="-1_32" class="Author">
+<attribute name="name" value="Goldberg DE"/>
+</item>
+<item id="-1_71" class="Author">
+<attribute name="name" value="McIntosh MT"/>
+</item>
+<item id="-1_389" class="Author">
+<attribute name="name" value="Van Wye J"/>
+</item>
+<item id="-1_427" class="Author">
+<attribute name="name" value="Alano P"/>
+</item>
+<item id="-1_223" class="Author">
+<attribute name="name" value="Goble A"/>
+</item>
+<item id="-1_383" class="Author">
+<attribute name="name" value="Franklin RM"/>
+</item>
+<item id="-1_449" class="Author">
+<attribute name="name" value="Duffin KL"/>
+</item>
+<item id="-1_576" class="Author">
+<attribute name="name" value="Yu B"/>
+</item>
+<item id="-1_541" class="Author">
+<attribute name="name" value="Helmbrecht C"/>
+</item>
+<item id="-1_538" class="Author">
+<attribute name="name" value="Rick B"/>
+</item>
+<item id="-1_182" class="Author">
+<attribute name="name" value="Certa U"/>
+</item>
+<item id="-1_13" class="Author">
+<attribute name="name" value="Kicska GA"/>
+</item>
+<item id="-1_687" class="Author">
+<attribute name="name" value="Morishima N"/>
+</item>
+<item id="-1_683" class="Author">
+<attribute name="name" value="Georgopoulos C"/>
+</item>
+<item id="-1_485" class="Author">
+<attribute name="name" value="Trucco C"/>
+</item>
+<item id="-1_142" class="Author">
+<attribute name="name" value="Hyman RW"/>
+</item>
+<item id="-1_219" class="Author">
+<attribute name="name" value="Davis P"/>
+</item>
+<item id="-1_372" class="Author">
+<attribute name="name" value="Leopold GR"/>
+</item>
+<item id="-1_98" class="Author">
+<attribute name="name" value="Pei D"/>
+</item>
+<item id="-1_313" class="Author">
+<attribute name="name" value="Chakrabarti D"/>
+</item>
+<item id="-1_414" class="Author">
+<attribute name="name" value="Allary M"/>
+</item>
+<item id="-1_225" class="Author">
+<attribute name="name" value="Hance Z"/>
+</item>
+<item id="-1_473" class="Author">
+<attribute name="name" value="Sharma A"/>
+</item>
+<item id="-1_578" class="Author">
+<attribute name="name" value="Haque TS"/>
+</item>
+<item id="-1_330" class="Author">
+<attribute name="name" value="Fox BA"/>
+</item>
+<item id="-1_173" class="Author">
+<attribute name="name" value="Hoffman SL"/>
+</item>
+<item id="-1_403" class="Author">
+<attribute name="name" value="Zielenkiewicz P"/>
+</item>
+<item id="-1_614" class="Author">
+<attribute name="name" value="Hedgecock EM"/>
+</item>
+<item id="-1_38" class="Author">
+<attribute name="name" value="Chillingworth T"/>
+</item>
+<item id="-1_577" class="Author">
+<attribute name="name" value="Ellman JA"/>
+</item>
+<item id="-1_425" class="Author">
+<attribute name="name" value="Carter R"/>
+</item>
+<item id="-1_342" class="Author">
+<attribute name="name" value="Chakrabarti R"/>
+</item>
+<item id="-1_236" class="Author">
+<attribute name="name" value="Line A"/>
+</item>
+<item id="-1_171" class="Author">
+<attribute name="name" value="Venter JC"/>
+</item>
+<item id="-1_669" class="Author">
+<attribute name="name" value="Schlegel BP"/>
+</item>
+<item id="-1_143" class="Author">
+<attribute name="name" value="Carlton JM"/>
+</item>
+<item id="-1_379" class="Author">
+<attribute name="name" value="Taylor MC"/>
+</item>
+<item id="-1_60" class="Author">
+<attribute name="name" value="Rajandream MA"/>
+</item>
+<item id="-1_428" class="Author">
+<attribute name="name" value="Nelson R"/>
+</item>
+<item id="-1_474" class="Author">
+<attribute name="name" value="Sharma I"/>
+</item>
+<item id="-1_212" class="Author">
+<attribute name="name" value="Chillingworth C"/>
+</item>
+<item id="-1_462" class="Author">
+<attribute name="name" value="Ball H"/>
+</item>
+<item id="-1_238" class="Author">
+<attribute name="name" value="Mooney P"/>
+</item>
+<item id="-1_463" class="Author">
+<attribute name="name" value="Greenbaum D"/>
+</item>
+<item id="-1_605" class="Author">
+<attribute name="name" value="Konings RN"/>
+</item>
+<item id="-1_483" class="Author">
+<attribute name="name" value="Ling IT"/>
+</item>
+<item id="-1_592" class="Author">
+<attribute name="name" value="Salcedo E"/>
+</item>
+<item id="-1_676" class="Author">
+<attribute name="name" value="Ralph S"/>
+</item>
+<item id="-1_560" class="Author">
+<attribute name="name" value="Shallom S"/>
+</item>
+<item id="-1_629" class="Author">
+<attribute name="name" value="Kurdi-Haidar B"/>
+</item>
+<item id="-1_77" class="Author">
+<attribute name="name" value="Wesseling JG"/>
+</item>
+<item id="-1_96" class="Author">
+<attribute name="name" value="Turley S"/>
+</item>
+<item id="-1_6" class="Author">
+<attribute name="name" value="Anderson R"/>
+</item>
+<item id="-1_169" class="Author">
+<attribute name="name" value="Subramanian GM"/>
+</item>
+<item id="-1_409" class="Author">
+<attribute name="name" value="Yurchenko YA"/>
+</item>
+<item id="-1_426" class="Author">
+<attribute name="name" value="Petersen C"/>
+</item>
+<item id="-1_176" class="Author">
+<attribute name="name" value="Barrell B"/>
+</item>
+<item id="-1_248" class="Author">
+<attribute name="name" value="Stevens K"/>
+</item>
+<item id="-1_590" class="Author">
+<attribute name="name" value="Nau U"/>
+</item>
+<item id="-1_19" class="Author">
+<attribute name="name" value="Almo SC"/>
+</item>
+<item id="-1_287" class="Author">
+<attribute name="name" value="Loetscher H"/>
+</item>
+<item id="-1_57" class="Author">
+<attribute name="name" value="Murphy L"/>
+</item>
+<item id="-1_246" class="Author">
+<attribute name="name" value="Sharp S"/>
+</item>
+<item id="-1_631" class="Author">
+<attribute name="name" value="Carvajal JL"/>
+</item>
+<item id="-1_39" class="Author">
+<attribute name="name" value="Churcher CM"/>
+</item>
+<item id="-1_554" class="Author">
+<attribute name="name" value="Newbold CI"/>
+</item>
+<item id="-1_673" class="Author">
+<attribute name="name" value="Graeser R"/>
+</item>
+<item id="-1_230" class="Author">
+<attribute name="name" value="Johnson D"/>
+</item>
+<item id="-1_294" class="Author">
+<attribute name="name" value="Trenholme KR"/>
+</item>
+<item id="-1_675" class="Author">
+<attribute name="name" value="Zuegge J"/>
+</item>
+<item id="-1_197" class="Author">
+<attribute name="name" value="Hansen C"/>
+</item>
+<item id="-1_439" class="Author">
+<attribute name="name" value="Muccio DD"/>
+</item>
+<item id="-1_682" class="Author">
+<attribute name="name" value="Glick BS"/>
+</item>
+<item id="-1_103" class="Author">
+<attribute name="name" value="Sodeinde O"/>
+</item>
+<item id="-1_613" class="Author">
+<attribute name="name" value="He WW"/>
+</item>
+<item id="-1_232" class="Author">
+<attribute name="name" value="Knights A"/>
+</item>
+<item id="-1_298" class="Author">
+<attribute name="name" value="Kemp DJ"/>
+</item>
+<item id="-1_364" class="Author">
+<attribute name="name" value="Lüdemann H"/>
+</item>
+<item id="-1_66" class="Author">
+<attribute name="name" value="Whitehead S"/>
+</item>
+<item id="-1_641" class="Author">
+<attribute name="name" value="Bustamante PJ"/>
+</item>
+<item id="-1_566" class="Author">
+<attribute name="name" value="Lai Z"/>
+</item>
+<item id="-1_205" class="Author">
+<attribute name="name" value="Atkin R"/>
+</item>
+<item id="-1_370" class="Author">
+<attribute name="name" value="Gooding GA"/>
+</item>
+<item id="-1_204" class="Author">
+<attribute name="name" value="Harris B"/>
+</item>
+<item id="-1_464" class="Author">
+<attribute name="name" value="Bogyo M"/>
+</item>
+<item id="-1_47" class="Author">
+<attribute name="name" value="Harris D"/>
+</item>
+<item id="-1_224" class="Author">
+<attribute name="name" value="Goodhead I"/>
+</item>
+<item id="-1_14" class="Author">
+<attribute name="name" value="Lewandowicz A"/>
+</item>
+<item id="-1_307" class="Author">
+<attribute name="name" value="Smythe JA"/>
+</item>
+<item id="-1_15" class="Author">
+<attribute name="name" value="Tyler PC"/>
+</item>
+<item id="-1_531" class="Author">
+<attribute name="name" value="Hansen M"/>
+</item>
+<item id="-1_16" class="Author">
+<attribute name="name" value="Evans GB"/>
+</item>
+<item id="-1_333" class="Author">
+<attribute name="name" value="Shahabuddin M"/>
+</item>
+<item id="-1_87" class="Author">
+<attribute name="name" value="Alzari PM"/>
+</item>
+<item id="-1_494" class="Author">
+<attribute name="name" value="Nickel C"/>
+</item>
+<item id="-1_644" class="Author">
+<attribute name="name" value="Keister DB"/>
+</item>
+<item id="-1_296" class="Author">
+<attribute name="name" value="Holt DC"/>
+</item>
+<item id="-1_563" class="Author">
+<attribute name="name" value="Shen K"/>
+</item>
+<item id="-1_306" class="Author">
+<attribute name="name" value="Marshall VM"/>
+</item>
+<item id="-1_132" class="Author">
+<attribute name="name" value="Hibbs AR"/>
+</item>
+<item id="-1_548" class="Author">
+<attribute name="name" value="Rohrbach P"/>
+</item>
+<item id="-1_195" class="Author">
+<attribute name="name" value="Granger D"/>
+</item>
+<item id="-1_112" class="Author">
+<attribute name="name" value="Lüersen K"/>
+</item>
+<item id="-1_52" class="Author">
+<attribute name="name" value="Jassal B"/>
+</item>
+<item id="-1_149" class="Author">
+<attribute name="name" value="Rutherford K"/>
+</item>
+<item id="-1_69" class="Author">
+<attribute name="name" value="Barrell BG"/>
+</item>
+<item id="-1_122" class="Author">
+<attribute name="name" value="Speed T"/>
+</item>
+<item id="-1_459" class="Author">
+<attribute name="name" value="Perlson E"/>
+</item>
+<item id="-1_244" class="Author">
+<attribute name="name" value="Simmonds M"/>
+</item>
+<item id="-1_148" class="Author">
+<attribute name="name" value="Eisen JA"/>
+</item>
+<item id="-1_31" class="Author">
+<attribute name="name" value="Sullivan DJ Jr"/>
+</item>
+<item id="-1_285" class="Author">
+<attribute name="name" value="Bernstein NK"/>
+</item>
+<item id="-1_275" class="Author">
+<attribute name="name" value="Lasonder E"/>
+</item>
+<item id="-1_584" class="Author">
+<attribute name="name" value="An L"/>
+</item>
+<item id="-1_245" class="Author">
+<attribute name="name" value="Seeger K"/>
+</item>
+<item id="-1_198" class="Author">
+<attribute name="name" value="Pederson J"/>
+</item>
+<item id="-1_155" class="Author">
+<attribute name="name" value="Peterson J"/>
+</item>
+<item id="-1_466" class="Author">
+<attribute name="name" value="Bradshaw RA"/>
+</item>
+<item id="-1_487" class="Author">
+<attribute name="name" value="Fernandez-Reyes D"/>
+</item>
+<item id="-1_419" class="Author">
+<attribute name="name" value="Möhrle JJ"/>
+</item>
+<item id="-1_547" class="Author">
+<attribute name="name" value="Wickert H"/>
+</item>
+<item id="-1_300" class="Author">
+<attribute name="name" value="Kramer A"/>
+</item>
+<item id="-1_213" class="Author">
+<attribute name="name" value="Christodoulou Z"/>
+</item>
+<item id="-1_7" class="Author">
+<attribute name="name" value="Milligan R"/>
+</item>
+<item id="-1_360" class="Author">
+<attribute name="name" value="Koonin EV"/>
+</item>
+<item id="-1_131" class="Author">
+<attribute name="name" value="La Greca N"/>
+</item>
+<item id="-1_53" class="Author">
+<attribute name="name" value="Kyes S"/>
+</item>
+<item id="-1_191" class="Author">
+<attribute name="name" value="Brenner M"/>
+</item>
+<item id="-1_295" class="Author">
+<attribute name="name" value="Gardiner DL"/>
+</item>
+<item id="-1_331" class="Author">
+<attribute name="name" value="Gonyer K"/>
+</item>
+<item id="-1_201" class="Author">
+<attribute name="name" value="Adams MD"/>
+</item>
+<item id="-1_172" class="Author">
+<attribute name="name" value="Carucci DJ"/>
+</item>
+<item id="-1_437" class="Author">
+<attribute name="name" value="Pal B"/>
+</item>
+<item id="-1_502" class="Author">
+<attribute name="name" value="Kappe SH"/>
+</item>
+<item id="-1_302" class="Author">
+<attribute name="name" value="Weuffen W"/>
+</item>
+<item id="-1_431" class="Author">
+<attribute name="name" value="Leech J"/>
+</item>
+<item id="-1_504" class="Author">
+<attribute name="name" value="Fraser TS"/>
+</item>
+<item id="-1_633" class="Author">
+<attribute name="name" value="Cappadoro M"/>
+</item>
+<item id="-1_283" class="Author">
+<attribute name="name" value="Mann M"/>
+</item>
+<item id="-1_678" class="Author">
+<attribute name="name" value="Schneider G"/>
+</item>
+<item id="-1_41" class="Author">
+<attribute name="name" value="Davies RM"/>
+</item>
+<item id="-1_159" class="Author">
+<attribute name="name" value="Selengut J"/>
+</item>
+<item id="-1_611" class="Author">
+<attribute name="name" value="Lander LE"/>
+</item>
+<item id="-1_573" class="Author">
+<attribute name="name" value="Asojo OA"/>
+</item>
+<item id="-1_561" class="Author">
+<attribute name="name" value="Mason T"/>
+</item>
+<item id="-1_460" class="Author">
+<attribute name="name" value="Fainzilber M"/>
+</item>
+<item id="-1_30" class="Author">
+<attribute name="name" value="Francis SE"/>
+</item>
+<item id="-1_649" class="Author">
+<attribute name="name" value="Nelson RG"/>
+</item>
+<item id="-1_280" class="Author">
+<attribute name="name" value="Eling WM"/>
+</item>
+<item id="-1_677" class="Author">
+<attribute name="name" value="Schmuker M"/>
+</item>
+<item id="-1_680" class="Author">
+<attribute name="name" value="Bolliger L"/>
+</item>
+<item id="-1_392" class="Author">
+<attribute name="name" value="Mitschler RR"/>
+</item>
+<item id="-1_550" class="Author">
+<attribute name="name" value="Krohne G"/>
+</item>
+<item id="-1_522" class="Author">
+<attribute name="name" value="Brameld KA"/>
+</item>
+<item id="-1_228" class="Author">
+<attribute name="name" value="Humphray S"/>
+</item>
+<item id="-1_115" class="Author">
+<attribute name="name" value="Madhubala R"/>
+</item>
+<item id="-1_659" class="Author">
+<attribute name="name" value="van Aalten DM"/>
+</item>
+<item id="-1_165" class="Author">
+<attribute name="name" value="Roos DS"/>
+</item>
+<item id="-1_206" class="Author">
+<attribute name="name" value="Baker S"/>
+</item>
+<item id="-1_261" class="Author">
+<attribute name="name" value="Shiraiwa K"/>
+</item>
+<item id="-1_652" class="Author">
+<attribute name="name" value="Blackman MJ"/>
+</item>
+<item id="-1_134" class="Author">
+<attribute name="name" value="Foley M"/>
+</item>
+<item id="-1_104" class="Author">
+<attribute name="name" value="Mason PJ"/>
+</item>
+<item id="-1_99" class="Author">
+<attribute name="name" value="Hol WG"/>
+</item>
+<item id="-1_465" class="Author">
+<attribute name="name" value="Tyson DR"/>
+</item>
+<item id="-1_27" class="Author">
+<attribute name="name" value="Kyes SA"/>
+</item>
+<item id="-1_42" class="Author">
+<attribute name="name" value="Devlin K"/>
+</item>
+<item id="-1_102" class="Author">
+<attribute name="name" value="Scopes DA"/>
+</item>
+<item id="-1_220" class="Author">
+<attribute name="name" value="Dear P"/>
+</item>
+<item id="-1_125" class="Author">
+<attribute name="name" value="Trottein F"/>
+</item>
+<item id="-1_277" class="Author">
+<attribute name="name" value="Andersen JS"/>
+</item>
+<item id="-1_380" class="Author">
+<attribute name="name" value="Kelly JM"/>
+</item>
+<item id="-1_367" class="Author">
+<attribute name="name" value="Krauth-Siegel RL"/>
+</item>
+<item id="-1_397" class="Author">
+<attribute name="name" value="Goman M"/>
+</item>
+<item id="-1_286" class="Author">
+<attribute name="name" value="Cherney MM"/>
+</item>
+<item id="-1_114" class="Author">
+<attribute name="name" value="Das Gupta R"/>
+</item>
+<item id="-1_377" class="Author">
+<attribute name="name" value="Schaap P"/>
+</item>
+<item id="-1_55" class="Author">
+<attribute name="name" value="Moule S"/>
+</item>
+<item id="-1_624" class="Author">
+<attribute name="name" value="Reed MB"/>
+</item>
+<item id="-1_498" class="Author">
+<attribute name="name" value="Karplus PA"/>
+</item>
+<item id="-1_203" class="Author">
+<attribute name="name" value="Churcher C"/>
+</item>
+<item id="-1_616" class="Author">
+<attribute name="name" value="Hettmann C"/>
+</item>
+<item id="-1_187" class="Author">
+<attribute name="name" value="Lynn J"/>
+</item>
+<item id="-1_489" class="Author">
+<attribute name="name" value="Holder AA"/>
+</item>
+<item id="-1_515" class="Author">
+<attribute name="name" value="Khan SM"/>
+</item>
+<item id="-1_457" class="Author">
+<attribute name="name" value="Medzihradszky KF"/>
+</item>
+<item id="-1_217" class="Author">
+<attribute name="name" value="Cronin A"/>
+</item>
+<item id="-1_341" class="Author">
+<attribute name="name" value="Schuster SM"/>
+</item>
+<item id="-1_443" class="Author">
+<attribute name="name" value="Beavis R"/>
+</item>
+<item id="-1_579" class="Author">
+<attribute name="name" value="Silva AM"/>
+</item>
+<item id="-1_327" class="Author">
+<attribute name="name" value="Suguna K"/>
+</item>
+<item id="-1_516" class="Author">
+<attribute name="name" value="Jarra W"/>
+</item>
+<item id="-1_23" class="Author">
+<attribute name="name" value="Brzozowski AM"/>
+</item>
+<item id="-1_417" class="Author">
+<attribute name="name" value="Schrével J"/>
+</item>
+<item id="-1_391" class="Author">
+<attribute name="name" value="Webster P"/>
+</item>
+<item id="-1_471" class="Author">
+<attribute name="name" value="Baruch DI"/>
+</item>
+<item id="-1_196" class="Author">
+<attribute name="name" value="Fujii C"/>
+</item>
+<item id="-1_402" class="Author">
+<attribute name="name" value="Kaczanowski S"/>
+</item>
+<item id="-1_632" class="Author">
+<attribute name="name" value="Vulliamy TJ"/>
+</item>
+<item id="-1_664" class="Author">
+<attribute name="name" value="Stockley RW"/>
+</item>
+<item id="-1_564" class="Author">
+<attribute name="name" value="Jing J"/>
+</item>
+<item id="-1_365" class="Author">
+<attribute name="name" value="Färber PM"/>
+</item>
+<item id="-1_497" class="Author">
+<attribute name="name" value="Becker K"/>
+</item>
+<item id="-1_25" class="Author">
+<attribute name="name" value="Schnick C"/>
+</item>
+<item id="-1_268" class="Author">
+<attribute name="name" value="Read M"/>
+</item>
+<item id="-1_93" class="Author">
+<attribute name="name" value="Nguyen KT"/>
+</item>
+<item id="-1_374" class="Author">
+<attribute name="name" value="Witney AA"/>
+</item>
+<item id="-1_505" class="Author">
+<attribute name="name" value="Blair PL"/>
+</item>
+<item id="-1_43" class="Author">
+<attribute name="name" value="Feltwell T"/>
+</item>
+<item id="-1_207" class="Author">
+<attribute name="name" value="Barron A"/>
+</item>
+<item id="-1_509" class="Author">
+<attribute name="name" value="Corcoran LM"/>
+</item>
+<item id="-1_301" class="Author">
+<attribute name="name" value="Krause R"/>
+</item>
+<item id="-1_164" class="Author">
+<attribute name="name" value="Fraunholz MJ"/>
+</item>
+<item id="-1_415" class="Author">
+<attribute name="name" value="Monsigny M"/>
+</item>
+<item id="-1_508" class="Author">
+<attribute name="name" value="Favaloro JM"/>
+</item>
+<item id="-1_75" class="Author">
+<attribute name="name" value="Vaidya AB"/>
+</item>
+<item id="-1_553" class="Author">
+<attribute name="name" value="Kriek N"/>
+</item>
+<item id="-1_110" class="Author">
+<attribute name="name" value="Müller S"/>
+</item>
+<item id="-1_239" class="Author">
+<attribute name="name" value="Ormond D"/>
+</item>
+<item id="-1_430" class="Author">
+<attribute name="name" value="Pereira da Silva L"/>
+</item>
+<item id="-1_506" class="Author">
+<attribute name="name" value="Adams JH"/>
+</item>
+<item id="-1_111" class="Author">
+<attribute name="name" value="Da'dara A"/>
+</item>
+<item id="-1_247" class="Author">
+<attribute name="name" value="Smith R"/>
+</item>
+<item id="-1_416" class="Author">
+<attribute name="name" value="Mayer R"/>
+</item>
+<item id="-1_58" class="Author">
+<attribute name="name" value="Oliver K"/>
+</item>
+<item id="-1_62" class="Author">
+<attribute name="name" value="Skelton J"/>
+</item>
+<item id="-1_527" class="Author">
+<attribute name="name" value="Hendriks EF"/>
+</item>
+<item id="-1_50" class="Author">
+<attribute name="name" value="Horrocks P"/>
+</item>
+<item id="-1_270" class="Author">
+<attribute name="name" value="Sims PF"/>
+</item>
+<item id="-1_559" class="Author">
+<attribute name="name" value="Aravind L"/>
+</item>
+<item id="-1_113" class="Author">
+<attribute name="name" value="Wrenger C"/>
+</item>
+<item id="-1_482" class="Author">
+<attribute name="name" value="Pachebat JA"/>
+</item>
+<item id="-1_567" class="Author">
+<attribute name="name" value="Schwartz DC"/>
+</item>
+<item id="-1_147" class="Author">
+<attribute name="name" value="James K"/>
+</item>
+<item id="-1_407" class="Author">
+<attribute name="name" value="Lavrovsky VA"/>
+</item>
+<item id="-1_249" class="Author">
+<attribute name="name" value="Taylor K"/>
+</item>
+<item id="-1_438" class="Author">
+<attribute name="name" value="Pybus B"/>
+</item>
+<item id="-1_56" class="Author">
+<attribute name="name" value="Mungall K"/>
+</item>
+<item id="-1_619" class="Author">
+<attribute name="name" value="Frank B"/>
+</item>
+<item id="-1_137" class="Author">
+<attribute name="name" value="Gardner MJ"/>
+</item>
+<item id="-1_500" class="Author">
+<attribute name="name" value="Robien MA"/>
+</item>
+<item id="-1_461" class="Author">
+<attribute name="name" value="Chalkley RJ"/>
+</item>
+<item id="-1_630" class="Author">
+<attribute name="name" value="Wanachiwanawin W"/>
+</item>
+<item id="-1_688" class="Author">
+<attribute name="name" value="Schatz G"/>
+</item>
+<item id="-1_170" class="Author">
+<attribute name="name" value="Mungall C"/>
+</item>
+<item id="-1_127" class="Author">
+<attribute name="name" value="Su X"/>
+</item>
+<item id="-1_138" class="Author">
+<attribute name="name" value="Hall N"/>
+</item>
+<item id="-1_40" class="Author">
+<attribute name="name" value="Craig A"/>
+</item>
+<item id="-1_288" class="Author">
+<attribute name="name" value="Ridley RG"/>
+</item>
+<item id="-1_421" class="Author">
+<attribute name="name" value="Wernli B"/>
+</item>
+<item id="-1_121" class="Author">
+<attribute name="name" value="Delorenzi M"/>
+</item>
+<item id="-1_65" class="Author">
+<attribute name="name" value="Sulston JE"/>
+</item>
+<item id="-1_488" class="Author">
+<attribute name="name" value="Gunaratne R"/>
+</item>
+<item id="-1_310" class="Author">
+<attribute name="name" value="Silva A"/>
+</item>
+<item id="-1_517" class="Author">
+<attribute name="name" value="Preiser PR"/>
+</item>
+<item id="-1_8" class="Author">
+<attribute name="name" value="Sakowicz R"/>
+</item>
+<item id="-1_303" class="Author">
+<attribute name="name" value="Rödel B"/>
+</item>
+<item id="-1_46" class="Author">
+<attribute name="name" value="Hamlin N"/>
+</item>
+<item id="-1_51" class="Author">
+<attribute name="name" value="Jagels K"/>
+</item>
+<item id="-1_24" class="Author">
+<attribute name="name" value="Brannigan JA"/>
+</item>
+<item id="-1_359" class="Author">
+<attribute name="name" value="Klotz FW"/>
+</item>
+<item id="-1_271" class="Author">
+<attribute name="name" value="Hyde JE"/>
+</item>
+<item id="-1_241" class="Author">
+<attribute name="name" value="Rabbinowitsch E"/>
+</item>
+<item id="-1_97" class="Author">
+<attribute name="name" value="Hirsh I"/>
+</item>
+<item id="-1_444" class="Author">
+<attribute name="name" value="Chait B"/>
+</item>
+<item id="-1_376" class="Author">
+<attribute name="name" value="Warhurst DC"/>
+</item>
+<item id="-1_354" class="Author">
+<attribute name="name" value="Reese RT"/>
+</item>
+<item id="-1_420" class="Author">
+<attribute name="name" value="Zhao Y"/>
+</item>
+<item id="-1_86" class="Author">
+<attribute name="name" value="Fujioka H"/>
+</item>
+<item id="-1_178" class="Author">
+<attribute name="name" value="Daubenberger CA"/>
+</item>
+<item id="-1_491" class="Author">
+<attribute name="name" value="Gerousis M"/>
+</item>
+<item id="-1_151" class="Author">
+<attribute name="name" value="Chan MS"/>
+</item>
+<item id="-1_297" class="Author">
+<attribute name="name" value="Thomas EA"/>
+</item>
+<item id="-1_28" class="Author">
+<attribute name="name" value="Wilkinson AJ"/>
+</item>
+<item id="-1_410" class="Author">
+<attribute name="name" value="Razvorotnev VA"/>
+</item>
+<item id="-1_234" class="Author">
+<attribute name="name" value="Larke N"/>
+</item>
+<item id="-1_222" class="Author">
+<attribute name="name" value="Doggett J"/>
+</item>
+<item id="-1_395" class="Author">
+<attribute name="name" value="Lahm HW"/>
+</item>
+<item id="-1_378" class="Author">
+<attribute name="name" value="Meima M"/>
+</item>
+<item id="-1_316" class="Author">
+<attribute name="name" value="Coppel RL"/>
+</item>
+<item id="-1_160" class="Author">
+<attribute name="name" value="Haft D"/>
+</item>
+<item id="-1_552" class="Author">
+<attribute name="name" value="Rowe JA"/>
+</item>
+<item id="-1_581" class="Author">
+<attribute name="name" value="Saul AJ"/>
+</item>
+<item id="-1_583" class="Author">
+<attribute name="name" value="Fan Q"/>
+</item>
+<item id="-1_610" class="Author">
+<attribute name="name" value="Kipreos ET"/>
+</item>
+<item id="-1_469" class="Author">
+<attribute name="name" value="Cooke BM"/>
+</item>
+<item id="-1_9" class="Author">
+<attribute name="name" value="Fletterick R"/>
+</item>
+<item id="-1_186" class="Author">
+<attribute name="name" value="Ciecko A"/>
+</item>
+<item id="-1_399" class="Author">
+<attribute name="name" value="Woollett GR"/>
+</item>
+<item id="-1_188" class="Author">
+<attribute name="name" value="Rizzo M"/>
+</item>
+<item id="-1_648" class="Author">
+<attribute name="name" value="Rosenthal PJ"/>
+</item>
+<item id="-1_382" class="Author">
+<attribute name="name" value="Hirtzlin J"/>
+</item>
+<item id="-1_318" class="Author">
+<attribute name="name" value="Nogueira PA"/>
+</item>
+<item id="-1_511" class="Author">
+<attribute name="name" value="Brown GV"/>
+</item>
+<item id="-1_429" class="Author">
+<attribute name="name" value="Mattei D"/>
+</item>
+<item id="-1_119" class="Author">
+<attribute name="name" value="Thompson J"/>
+</item>
+<item id="-1_667" class="Author">
+<attribute name="name" value="Jez JM"/>
+</item>
+<item id="-1_135" class="Author">
+<attribute name="name" value="Tilley L"/>
+</item>
+<item id="-1_394" class="Author">
+<attribute name="name" value="Takacs B"/>
+</item>
+<item id="-1_20" class="Author">
+<attribute name="name" value="Schramm VL"/>
+</item>
+<item id="-1_521" class="Author">
+<attribute name="name" value="Specht CA"/>
+</item>
+<item id="-1_292" class="Author">
+<attribute name="name" value="Herrmann VR"/>
+</item>
+<item id="-1_486" class="Author">
+<attribute name="name" value="Howell S"/>
+</item>
+<item id="-1_608" class="Author">
+<attribute name="name" value="Asavanich A"/>
+</item>
+<item id="-1_390" class="Author">
+<attribute name="name" value="Ghori N"/>
+</item>
+<item id="-1_690" class="Author">
+<attribute name="name" value="Gafan C"/>
+</item>
+<item id="-1_617" class="Author">
+<attribute name="name" value="Herm A"/>
+</item>
+<item id="-1_353" class="Author">
+<attribute name="name" value="Linder P"/>
+</item>
+<item id="-1_335" class="Author">
+<attribute name="name" value="Kaslow DC"/>
+</item>
+<item id="-1_574" class="Author">
+<attribute name="name" value="Gulnik SV"/>
+</item>
+<item id="-1_658" class="Author">
+<attribute name="name" value="Urch JE"/>
+</item>
+<item id="-1_670" class="Author">
+<attribute name="name" value="Lewis M"/>
+</item>
+<item id="-1_45" class="Author">
+<attribute name="name" value="Gwilliam R"/>
+</item>
+<item id="-1_319" class="Author">
+<attribute name="name" value="Wunderlich G"/>
+</item>
+<item id="-1_72" class="Author">
+<attribute name="name" value="Drozdowicz YM"/>
+</item>
+<item id="-1_85" class="Author">
+<attribute name="name" value="Blisnick T"/>
+</item>
+<item id="-1_250" class="Author">
+<attribute name="name" value="Tivey A"/>
+</item>
+<item id="-1_279" class="Author">
+<attribute name="name" value="Sauerwein RW"/>
+</item>
+<item id="-1_156" class="Author">
+<attribute name="name" value="Angiuoli S"/>
+</item>
+<item id="-1_558" class="Author">
+<attribute name="name" value="Tettelin H"/>
+</item>
+<item id="-1_594" class="Author">
+<attribute name="name" value="Plowe CV"/>
+</item>
+<item id="-1_445" class="Author">
+<attribute name="name" value="Cerami A"/>
+</item>
+<item id="-1_634" class="Author">
+<attribute name="name" value="Luzzatto L"/>
+</item>
+<item id="-1_357" class="Author">
+<attribute name="name" value="Hudson-Taylor DE"/>
+</item>
+<item id="-1_34" class="Author">
+<attribute name="name" value="Bowman S"/>
+</item>
+<item id="-1_435" class="Author">
+<attribute name="name" value="Alcina A"/>
+</item>
+<item id="-1_309" class="Author">
+<attribute name="name" value="Lew A"/>
+</item>
+<item id="-1_355" class="Author">
+<attribute name="name" value="Stanley HA"/>
+</item>
+<item id="-1_180" class="Author">
+<attribute name="name" value="Jiang G"/>
+</item>
+<item id="-1_3" class="Author">
+<attribute name="name" value="Hekmat-Nejad M"/>
+</item>
+<item id="-1_281" class="Author">
+<attribute name="name" value="Waters AP"/>
+</item>
+<item id="-1_120" class="Author">
+<attribute name="name" value="Caruana SR"/>
+</item>
+<item id="-1_78" class="Author">
+<attribute name="name" value="Smits MA"/>
+</item>
+<item id="-1_123" class="Author">
+<attribute name="name" value="Cowman AF"/>
+</item>
+<item id="-1_446" class="Author">
+<attribute name="name" value="Henderson GB"/>
+</item>
+<item id="-1_106" class="Author">
+<attribute name="name" value="Knapp B"/>
+</item>
+<item id="-1_451" class="Author">
+<attribute name="name" value="Creedon KA"/>
+</item>
+<item id="-1_543" class="Author">
+<attribute name="name" value="Lingelbach K"/>
+</item>
+<item id="-1_221" class="Author">
+<attribute name="name" value="Dearden F"/>
+</item>
+<item id="-1_278" class="Author">
+<attribute name="name" value="Vermunt AM"/>
+</item>
+<item id="-1_387" class="Author">
+<attribute name="name" value="Radrizzani M"/>
+</item>
+<item id="-1_133" class="Author">
+<attribute name="name" value="Riffkin C"/>
+</item>
+<item id="-1_44" class="Author">
+<attribute name="name" value="Gentles S"/>
+</item>
+<item id="-1_150" class="Author">
+<attribute name="name" value="Salzberg SL"/>
+</item>
+<item id="-1_400" class="Author">
+<attribute name="name" value="Scaife JG"/>
+</item>
+<item id="-1_510" class="Author">
+<attribute name="name" value="Foote SJ"/>
+</item>
+<item id="-1_603" class="Author">
+<attribute name="name" value="Brahimi K"/>
+</item>
+<item id="-1_622" class="Author">
+<attribute name="name" value="Soldati D"/>
+</item>
+<item id="-1_384" class="Author">
+<attribute name="name" value="Bell A"/>
+</item>
+<item id="-1_537" class="Author">
+<attribute name="name" value="Marti T"/>
+</item>
+<item id="-1_645" class="Author">
+<attribute name="name" value="Muratova O"/>
+</item>
+<item id="-1_323" class="Author">
+<attribute name="name" value="Surolia A"/>
+</item>
+<item id="-1_346" class="Author">
+<attribute name="name" value="Sharma YD"/>
+</item>
+<item id="-1_181" class="Author">
+<attribute name="name" value="Lipp J"/>
+</item>
+<item id="-1_352" class="Author">
+<attribute name="name" value="Schmid SR"/>
+</item>
+<item id="-1_565" class="Author">
+<attribute name="name" value="Aston C"/>
+</item>
+<item id="-1_467" class="Author">
+<attribute name="name" value="Burlingame AL"/>
+</item>
+<item id="-1_612" class="Author">
+<attribute name="name" value="Wing JP"/>
+</item>
+<item id="-1_621" class="Author">
+<attribute name="name" value="Soldati T"/>
+</item>
+<item id="-1_475" class="Author">
+<attribute name="name" value="Kogkasuriyachai D"/>
+</item>
+<item id="-1_129" class="Author">
+<attribute name="name" value="Wellems TE"/>
+</item>
+<item id="-1_349" class="Author">
+<attribute name="name" value="Li JL"/>
+</item>
+<item id="-1_322" class="Author">
+<attribute name="name" value="Surolia N"/>
+</item>
+<item id="-1_434" class="Author">
+<attribute name="name" value="Durán-Chica I"/>
+</item>
+<item id="-1_214" class="Author">
+<attribute name="name" value="Clark L"/>
+</item>
+<item id="-1_193" class="Author">
+<attribute name="name" value="Tallon L"/>
+</item>
+<item id="-1_628" class="Author">
+<attribute name="name" value="O'Brien E"/>
+</item>
+<item id="-1_11" class="Author">
+<attribute name="name" value="Shi W"/>
+</item>
+<item id="-1_251" class="Author">
+<attribute name="name" value="Unwin L"/>
+</item>
+<item id="-1_691" class="Author">
+<attribute name="name" value="Wilson J"/>
+</item>
+<item id="-1_254" class="Author">
+<attribute name="name" value="Rubio JP"/>
+</item>
+<item id="-1_433" class="Author">
+<attribute name="name" value="Matesanz F"/>
+</item>
+<item id="-1_84" class="Author">
+<attribute name="name" value="Barale JC"/>
+</item>
+<item id="-1_192" class="Author">
+<attribute name="name" value="Parvizi B"/>
+</item>
+<item id="-1_185" class="Author">
+<attribute name="name" value="Shoaibi A"/>
+</item>
+<item id="-1_602" class="Author">
+<attribute name="name" value="Bottius E"/>
+</item>
+<item id="-1_139" class="Author">
+<attribute name="name" value="Fung E"/>
+</item>
+<item id="-1_242" class="Author">
+<attribute name="name" value="Rutherford KM"/>
+</item>
+<item id="-1_189" class="Author">
+<attribute name="name" value="Weaver B"/>
+</item>
+<item id="-1_183" class="Author">
+<attribute name="name" value="Pluschke G"/>
+</item>
+<item id="-1_260" class="Author">
+<attribute name="name" value="Kusakabe Y"/>
+</item>
+<item id="-1_534" class="Author">
+<attribute name="name" value="Beitz E"/>
+</item>
+<item id="-1_642" class="Author">
+<attribute name="name" value="Woodruff DC"/>
+</item>
+<item id="-1_495" class="Author">
+<attribute name="name" value="Rahlfs S"/>
+</item>
+<item id="-1_12" class="Author">
+<attribute name="name" value="Ting LM"/>
+</item>
+<item id="-1_470" class="Author">
+<attribute name="name" value="Nicoll CL"/>
+</item>
+<item id="-1_36" class="Author">
+<attribute name="name" value="Basham D"/>
+</item>
+<item id="-1_157" class="Author">
+<attribute name="name" value="Pertea M"/>
+</item>
+<item id="-1_524" class="Author">
+<attribute name="name" value="Hayward R"/>
+</item>
+<item id="-1_218" class="Author">
+<attribute name="name" value="Davies R"/>
+</item>
+<item id="-1_639" class="Author">
+<attribute name="name" value="Doerig CD"/>
+</item>
+<item id="-1_227" class="Author">
+<attribute name="name" value="Hauser H"/>
+</item>
+<item id="-1_637" class="Author">
+<attribute name="name" value="Doerig CM"/>
+</item>
+<item id="-1_101" class="Author">
+<attribute name="name" value="Clarke JL"/>
+</item>
+<item id="-1_479" class="Author">
+<attribute name="name" value="Bracchi V"/>
+</item>
+<item id="-1_625" class="Author">
+<attribute name="name" value="Saliba KJ"/>
+</item>
+<item id="-1_237" class="Author">
+<attribute name="name" value="Maddison M"/>
+</item>
+<item id="-1_320" class="Author">
+<attribute name="name" value="Pereira da Silva LH"/>
+</item>
+<item id="-1_496" class="Author">
+<attribute name="name" value="Fischer M"/>
+</item>
+<item id="-1_215" class="Author">
+<attribute name="name" value="Clark R"/>
+</item>
+<item id="-1_536" class="Author">
+<attribute name="name" value="Fischer K"/>
+</item>
+<item id="-1_685" class="Author">
+<attribute name="name" value="Kronidou N"/>
+</item>
+<item id="-1_311" class="Author">
+<attribute name="name" value="Anders RF"/>
+</item>
+<item id="-1_671" class="Author">
+<attribute name="name" value="Penning TM"/>
+</item>
+<item id="-1_363" class="Author">
+<attribute name="name" value="Wagner JT"/>
+</item>
+<item id="-1_347" class="Author">
+<attribute name="name" value="Kilejian A"/>
+</item>
+<item id="-1_174" class="Author">
+<attribute name="name" value="Davis RW"/>
+</item>
+<item id="-1_18" class="Author">
+<attribute name="name" value="Kim K"/>
+</item>
+<item id="-1_607" class="Author">
+<attribute name="name" value="Kaidoh T"/>
+</item>
+<item id="-1_587" class="Author">
+<attribute name="name" value="Saul A"/>
+</item>
+<item id="-1_74" class="Author">
+<attribute name="name" value="Rea PA"/>
+</item>
+<item id="-1_108" class="Author">
+<attribute name="name" value="Küpper HA"/>
+</item>
+<item id="-1_329" class="Author">
+<attribute name="name" value="Bzik DJ"/>
+</item>
+<item id="-1_452" class="Author">
+<attribute name="name" value="Rathod PK"/>
+</item>
+<item id="-1_128" class="Author">
+<attribute name="name" value="Kirkman LA"/>
+</item>
+<item id="-1_448" class="Author">
+<attribute name="name" value="Eggleson KK"/>
+</item>
+<item id="-1_646" class="Author">
+<attribute name="name" value="Williamson KC"/>
+</item>
+<item id="-1_73" class="Author">
+<attribute name="name" value="Laroiya K"/>
+</item>
+<item id="-1_258" class="Author">
+<attribute name="name" value="Tanaka N"/>
+</item>
+<item id="-1_265" class="Author">
+<attribute name="name" value="Nakamura KT"/>
+</item>
+<item id="-1_681" class="Author">
+<attribute name="name" value="Deloche O"/>
+</item>
+<item id="-1_626" class="Author">
+<attribute name="name" value="Kirk K"/>
+</item>
+<item id="-1_35" class="Author">
+<attribute name="name" value="Lawson D"/>
+</item>
+<item id="-1_49" class="Author">
+<attribute name="name" value="Hornsby T"/>
+</item>
+<item id="-1_656" class="Author">
+<attribute name="name" value="Wickramasinghe SR"/>
+</item>
+<item id="-1_22" class="Author">
+<attribute name="name" value="Boucher IW"/>
+</item>
+<item id="-1_514" class="Author">
+<attribute name="name" value="Kaviratne M"/>
+</item>
+<item id="-1_540" class="Author">
+<attribute name="name" value="Baumeister S"/>
+</item>
+<item id="-1_569" class="Author">
+<attribute name="name" value="Zhou L"/>
+</item>
+<item id="-1_344" class="Author">
+<attribute name="name" value="Yang YF"/>
+</item>
+<item id="-1_252" class="Author">
+<attribute name="name" value="Woodward J"/>
+</item>
+<item id="-1_585" class="Author">
+<attribute name="name" value="Cui L"/>
+</item>
+<item id="-1_82" class="Author">
+<attribute name="name" value="Haldar K"/>
+</item>
+<item id="-1_175" class="Author">
+<attribute name="name" value="Fraser CM"/>
+</item>
+<item id="-1_326" class="Author">
+<attribute name="name" value="Kapoor M"/>
+</item>
+<item id="-1_89" class="Author">
+<attribute name="name" value="Braun-Breton C"/>
+</item>
+<item id="-1_259" class="Author">
+<attribute name="name" value="Nakanishi M"/>
+</item>
+<item id="-1_162" class="Author">
+<attribute name="name" value="Martin DM"/>
+</item>
+<item id="-1_158" class="Author">
+<attribute name="name" value="Allen J"/>
+</item>
+<item id="-1_528" class="Author">
+<attribute name="name" value="O'Sullivan WJ"/>
+</item>
+<item id="-1_308" class="Author">
+<attribute name="name" value="Crewther PE"/>
+</item>
+<item id="-1_692" class="Author">
+<attribute name="name" value="Berger LC"/>
+</item>
+<item id="-1_315" class="Author">
+<attribute name="name" value="Bickle Q"/>
+</item>
+<item id="-1_240" class="Author">
+<attribute name="name" value="Price C"/>
+</item>
+<item id="-1_48" class="Author">
+<attribute name="name" value="Holroyd S"/>
+</item>
+<item id="-1_412" class="Author">
+<attribute name="name" value="Florent I"/>
+</item>
+<item id="-1_413" class="Author">
+<attribute name="name" value="Derhy Z"/>
+</item>
+<item id="-1_167" class="Author">
+<attribute name="name" value="McFadden GI"/>
+</item>
+<item id="-1_263" class="Author">
+<attribute name="name" value="Ito Y"/>
+</item>
+<item id="-1_305" class="Author">
+<attribute name="name" value="Peterson MG"/>
+</item>
+<item id="-1_593" class="Author">
+<attribute name="name" value="Cortese JF"/>
+</item>
+<item id="-1_476" class="Author">
+<attribute name="name" value="Kumar N"/>
+</item>
+<item id="-1_542" class="Author">
+<attribute name="name" value="Lanzer M"/>
+</item>
+<item id="-1_37" class="Author">
+<attribute name="name" value="Brown D"/>
+</item>
+<item id="-1_665" class="Author">
+<attribute name="name" value="Ludbrook SB"/>
+</item>
+<item id="-1_339" class="Author">
+<attribute name="name" value="Wang L"/>
+</item>
+<item id="-1_366" class="Author">
+<attribute name="name" value="Lottspeich F"/>
+</item>
+<item id="-1_600" class="Author">
+<attribute name="name" value="Wang P"/>
+</item>
+<item id="-1_599" class="Author">
+<attribute name="name" value="Wang Q"/>
+</item>
+<item id="-1_668" class="Author">
+<attribute name="name" value="Bennett MJ"/>
+</item>
+<item id="-1_539" class="Author">
+<attribute name="name" value="Benting J"/>
+</item>
+<item id="-1_5" class="Author">
+<attribute name="name" value="Moores C"/>
+</item>
+<item id="-1_79" class="Author">
+<attribute name="name" value="Schoenmakers JG"/>
+</item>
+<item id="-1_166" class="Author">
+<attribute name="name" value="Ralph SA"/>
+</item>
+<item id="-1_337" class="Author">
+<attribute name="name" value="Wu T"/>
+</item>
+<item id="-1_144" class="Author">
+<attribute name="name" value="Pain A"/>
+</item>
+<item id="-1_663" class="Author">
+<attribute name="name" value="Stafford WH"/>
+</item>
+<item id="-1_61" class="Author">
+<attribute name="name" value="Rutter S"/>
+</item>
+<item id="-1_161" class="Author">
+<attribute name="name" value="Mather MW"/>
+</item>
+<item id="-1_519" class="Author">
+<attribute name="name" value="Vinetz JM"/>
+</item>
+<item id="-1_88" class="Author">
+<attribute name="name" value="Aikawa M"/>
+</item>
+<item id="-1_200" class="Author">
+<attribute name="name" value="Smith HO"/>
+</item>
+<item id="-1_442" class="Author">
+<attribute name="name" value="Slater AF"/>
+</item>
+<item id="-1_208" class="Author">
+<attribute name="name" value="Brooks K"/>
+</item>
+<item id="-1_375" class="Author">
+<attribute name="name" value="Muhia DK"/>
+</item>
+<item id="-1_618" class="Author">
+<attribute name="name" value="Geiter A"/>
+</item>
+<item id="-1_107" class="Author">
+<attribute name="name" value="Hundt E"/>
+</item>
+<item id="-1_386" class="Author">
+<attribute name="name" value="Matilla A"/>
+</item>
+<item id="-1_282" class="Author">
+<attribute name="name" value="Stunnenberg HG"/>
+</item>
+<item id="-1_334" class="Author">
+<attribute name="name" value="Rawlings DJ"/>
+</item>
+<item id="-1_520" class="Author">
+<attribute name="name" value="Dave SK"/>
+</item>
+<item id="-1_455" class="Author">
+<attribute name="name" value="Wilson CM"/>
+</item>
+<item id="-1_116" class="Author">
+<attribute name="name" value="Walter RD"/>
+</item>
+<item id="-1_262" class="Author">
+<attribute name="name" value="Yabe S"/>
+</item>
+<item id="-1_17" class="Author">
+<attribute name="name" value="Furneaux RH"/>
+</item>
+<item id="-1_264" class="Author">
+<attribute name="name" value="Kitade Y"/>
+</item>
+<item id="-1_529" class="Author">
+<attribute name="name" value="Stewart TS"/>
+</item>
+<item id="-1_651" class="Author">
+<attribute name="name" value="Chitnis CE"/>
+</item>
+<item id="-1_350" class="Author">
+<attribute name="name" value="Baker DA"/>
+</item>
+<item id="-1_229" class="Author">
+<attribute name="name" value="James KD"/>
+</item>
+<item id="-1_59" class="Author">
+<attribute name="name" value="Quail MA"/>
+</item>
+<item id="-1_643" class="Author">
+<attribute name="name" value="Oh J"/>
+</item>
+<item id="-1_549" class="Author">
+<attribute name="name" value="Scherer SJ"/>
+</item>
+<item id="-1_67" class="Author">
+<attribute name="name" value="Woodward JR"/>
+</item>
+<item id="-1_571" class="Author">
+<attribute name="name" value="Clayton R"/>
+</item>
+<item id="-1_570" class="Author">
+<attribute name="name" value="Sutton GG"/>
+</item>
+<item id="-1_661" class="Author">
+<attribute name="name" value="Attal-Bonnefoy G"/>
+</item>
+<item id="-1_273" class="Author">
+<attribute name="name" value="Reddy GR"/>
+</item>
+<item id="-1_523" class="Author">
+<attribute name="name" value="Xu B"/>
+</item>
+<item id="-1_68" class="Author">
+<attribute name="name" value="Newbold C"/>
+</item>
+<item id="-1_358" class="Author">
+<attribute name="name" value="Dolan SA"/>
+</item>
+<item id="-1_588" class="Author">
+<attribute name="name" value="McColl DJ"/>
+</item>
+<item id="-1_199" class="Author">
+<attribute name="name" value="Feldblyum T"/>
+</item>
+<item id="-1_454" class="Author">
+<attribute name="name" value="LeBlanc SB"/>
+</item>
+<item id="-1_153" class="Author">
+<attribute name="name" value="Shallom SJ"/>
+</item>
+<item id="-1_345" class="Author">
+<attribute name="name" value="Tan-ariya P"/>
+</item>
+<item id="-1_398" class="Author">
+<attribute name="name" value="Matile H"/>
+</item>
+<item id="-1_478" class="Author">
+<attribute name="name" value="Dobson S"/>
+</item>
+<item id="-1_422" class="Author">
+<attribute name="name" value="Kappes B"/>
+</item>
+<item id="-1_269" class="Author">
+<attribute name="name" value="Holloway SP"/>
+</item>
+<item id="-1_163" class="Author">
+<attribute name="name" value="Fairlamb AH"/>
+</item>
+<item id="-1_216" class="Author">
+<attribute name="name" value="Corton C"/>
+</item>
+<item id="-1_118" class="Author">
+<attribute name="name" value="Triglia T"/>
+</item>
+<item id="-1_141" class="Author">
+<attribute name="name" value="Berriman M"/>
+</item>
+<item id="-1_325" class="Author">
+<attribute name="name" value="Pidugu LS"/>
+</item>
+<item id="-1_92" class="Author">
+<attribute name="name" value="Kumar A"/>
+</item>
+<item id="-1_190" class="Author">
+<attribute name="name" value="Jarrahi B"/>
+</item>
+<item id="-1_371" class="Author">
+<attribute name="name" value="Brown T"/>
+</item>
+<item id="-1_194" class="Author">
+<attribute name="name" value="Moazzez A"/>
+</item>
+</items>

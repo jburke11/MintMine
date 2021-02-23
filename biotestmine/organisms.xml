@@ -1,0 +1,46 @@
+<items>
+<item id="-1_6" class="Organism">
+<attribute name="genus" value="Plasmodium"/>
+<attribute name="name" value="Plasmodium falciparum 3D7"/>
+<attribute name="shortName" value="P. falciparum 3D7"/>
+<attribute name="species" value="falciparum 3D7"/>
+<attribute name="taxonId" value="36329"/>
+</item>
+<item id="-1_5" class="Organism">
+<attribute name="genus" value="Enterobacteria"/>
+<attribute name="name" value="Enterobacteria phage RB68"/>
+<attribute name="shortName" value="E. phage RB68"/>
+<attribute name="species" value="phage RB68"/>
+<attribute name="taxonId" value="36339"/>
+</item>
+<item id="-1_4" class="Organism">
+<attribute name="commonName" value="catnip"/>
+<attribute name="genus" value="Nepeta"/>
+<attribute name="name" value="Nepeta cataria"/>
+<attribute name="shortName" value="N. cataria"/>
+<attribute name="species" value="cataria"/>
+<attribute name="taxonId" value="39347"/>
+</item>
+<item id="-1_3" class="Organism">
+<attribute name="genus" value="Salvia"/>
+<attribute name="name" value="Salvia hispanica"/>
+<attribute name="shortName" value="S. hispanica"/>
+<attribute name="species" value="hispanica"/>
+<attribute name="taxonId" value="49212"/>
+</item>
+<item id="-1_2" class="Organism">
+<attribute name="commonName" value="American beauty-berry"/>
+<attribute name="genus" value="Callicarpa"/>
+<attribute name="name" value="Callicarpa americana"/>
+<attribute name="shortName" value="C. americana"/>
+<attribute name="species" value="americana"/>
+<attribute name="taxonId" value="204211"/>
+</item>
+<item id="-1_1" class="Organism">
+<attribute name="genus" value="Tectona"/>
+<attribute name="name" value="Tectona grandis"/>
+<attribute name="shortName" value="T. grandis"/>
+<attribute name="species" value="grandis"/>
+<attribute name="taxonId" value="41396"/>
+</item>
+</items>
